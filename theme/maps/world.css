@@ -1,0 +1,328 @@
+svg{
+    margin-left: 50px;margin-top: 10px;
+    float: left;
+    transition: ease 0.1s;
+}
+.world{
+    fill:white; transform: scale(0.65);
+}
+#data{
+    width: 100px; height: auto;
+    float:left;
+}
+
+#mapa{
+    margin-left: 200px;
+    transform-origin: center;
+    transition: ease 0.1s;
+    float:left;
+}
+#dirButtons{
+    width: 50px;
+    height: 200px;
+    float:left;
+}
+.buttons{
+    background-color: #eee; width: 50px; height: 50px;
+    position: relative; user-select: none;
+    z-index: 2;
+    float: left;
+}
+
+#AE:hover{
+    fill: yellow;
+}
+#AF:hover{
+    fill: yellow;
+}
+#AL:hover{
+    fill: yellow;
+}
+#AM:hover{
+    fill: yellow;
+}
+#AO:hover{
+    fill: yellow;
+}
+#AR:hover{
+    fill: yellow;
+}
+#AT:hover{
+    fill: yellow;
+}
+#AU:hover{
+    fill: yellow;
+}
+#AZ:hover{
+    fill: yellow;
+}
+#BA:hover{
+    fill: yellow;
+}
+#BD:hover{
+    fill: yellow;
+}
+#BE:hover{
+    fill: yellow;
+}
+#BF:hover{
+    fill: yellow;
+}
+#BG:hover{
+    fill: yellow;
+}
+#BI:hover{
+    fill: yellow;
+}
+#BJ:hover{
+    fill: yellow;
+}
+#BN:hover{
+    fill: yellow;
+}
+#BO:hover{
+    fill: yellow;
+}
+#BR:hover{
+    fill: yellow;
+}
+#BS:hover{
+    fill: yellow;
+}
+#BT:hover{
+    fill: yellow;
+}
+#BW:hover{
+    fill: yellow;
+}
+#BY:hover{
+    fill: yellow;
+}
+#BZ:hover{
+    fill: yellow;
+}
+#CA:hover{
+    fill: yellow;
+}
+#CD:hover{
+    fill: yellow;
+}
+#CF:hover{
+    fill: yellow;
+}
+#CG:hover{
+    fill: yellow;
+}
+#CH:hover{
+    fill: yellow;
+}
+
+#CI:hover{
+    fill: yellow;
+}
+#CL:hover{
+    fill: yellow;
+}
+#CM:hover{
+    fill: yellow;
+}
+#CN:hover{
+    fill: yellow;
+}
+#CO:hover{
+    fill: yellow;
+}
+#CR:hover{
+    fill: yellow;
+}
+#CU:hover{
+    fill: yellow;
+}
+#CY:hover{
+    fill: yellow;
+}
+#CZ:hover{
+    fill: yellow;
+}
+#DE:hover{
+    fill: yellow;
+}
+#DJ:hover{
+    fill: yellow;
+}
+#DK:hover{
+    fill: yellow;
+}
+#DO:hover{
+    fill: yellow;
+}
+#DZ:hover{
+    fill: yellow;
+}
+#EC:hover{
+    fill: yellow;
+}
+#EE:hover{
+    fill: yellow;
+}
+#EG:hover{
+    fill: yellow;
+}
+
+#EH:hover{
+    fill: yellow;
+}
+#ER:hover{
+    fill: yellow;
+}
+#ES:hover{
+    fill: yellow;
+}
+#ET:hover{
+    fill: yellow;
+}
+#FK:hover{
+    fill: yellow;
+}
+#FI:hover{
+    fill: yellow;
+}
+#FJ:hover{
+    fill: yellow;
+}
+#FR:hover{
+    fill: yellow;
+}
+#GA:hover{
+    fill: yellow;
+}
+#GB:hover{
+    fill: yellow;
+}
+#GE:hover{
+    fill: yellow;
+}
+#GF:hover{
+    fill: yellow;
+}
+#GH:hover{
+    fill: yellow;
+}
+#GL:hover{
+    fill: yellow;
+}
+#GM:hover{
+    fill: yellow;
+}
+#GN:hover{
+    fill: yellow;
+}
+#GQ:hover{
+    fill: yellow;
+}
+#GR:hover{
+    fill: yellow;
+}
+#GT:hover{
+    fill: yellow;
+}
+#GW:hover{
+    fill: yellow;
+}
+#GY:hover{
+    fill: yellow;
+}
+
+#HN:hover{
+    fill: yellow;
+}
+#HR:hover{
+    fill: yellow;
+}
+#HT:hover{
+    fill: yellow;
+}
+#HU:hover{
+    fill: yellow;
+}
+#ID:hover{
+    fill: yellow;
+}
+#IE:hover{
+    fill: yellow;
+}
+#IL:hover{
+    fill: yellow;
+}
+#IN:hover{
+    fill: yellow;
+}
+#IQ:hover{
+    fill: yellow;
+}
+#IR:hover{
+    fill: yellow;
+}
+#IS:hover{
+    fill: yellow;
+}
+#IT:hover{
+    fill: yellow;
+}
+
+#JM:hover{
+    fill: yellow;
+}
+#JO:hover{
+    fill: yellow;
+}
+#JP:hover{
+    fill: yellow;
+}
+#KE:hover{
+    fill: yellow;
+}
+#KG:hover{
+    fill: yellow;
+}
+#KH:hover{
+    fill: yellow;
+}
+#KP:hover{
+    fill: yellow;
+}
+#KR:hover{
+    fill: yellow;
+}
+#XK:hover{
+    fill: yellow;
+}
+#GT:hover{
+    fill: yellow;
+}
+#GW:hover{
+    fill: yellow;
+}
+#GY:hover{
+    fill: yellow;
+}
+#GT:hover{
+    fill: yellow;
+}
+#GW:hover{
+    fill: yellow;
+}
+#GY:hover{
+    fill: yellow;
+}
+#GT:hover{
+    fill: yellow;
+}
+#GW:hover{
+    fill: yellow;
+}
+#GY:hover{
+    fill: yellow;
+}
+
+
