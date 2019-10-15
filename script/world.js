@@ -1,7 +1,65 @@
-let zoom = [0.8, 0.9, 1.15, 1.40, 1.65, 1.9, 2];
+let zoom = [0.8, 1.15, 1.65, 2.15, 2.65, 3, 3.15, 3.65, 4];
 let z = 1;
 
-function selectCountry(name){
+function setup(){
+     createCanvas(width, height)
+}
+
+
+
+function zoomIn(){
+    if(z != zoom.length-1 || z < zoom.length-1){
+        z++
+        console.log(zoom[z])
+        document.getElementById('mapa').style.transform = "scale("+zoom[z]+")"
+    }
+}
+
+function zoomOut(){
+    if(z != 0 || z > 0){
+        z--
+        console.log(zoom[z])
+        document.getElementById('mapa').style.transform = "scale("+zoom[z]+")"
+    }
+}
+
+function mouseDragged(){
+     dragMap()
+     document.getElementById('mapa').style.transform = "translate("+mapOffset[0]+"px ,"+mapOffset[1]+"px) scale("+zoom[z]+")"
+ }
+
+ let mapOffset = [0, 0];
+ function dragMap(){
+    let x = 0
+    let y = 0
+    //USTAWIĆ WYMIARY DLA SCALE'ów!!!
+    if(mapOffset[0] <= 250 && mapOffset[0] >= -520){
+        x = mouseX - pmouseX;
+    }
+    else if(mapOffset[0] >= 250){
+        mapOffset[0] = 250;
+    }
+    else if(mapOffset[0] <= -520){
+        mapOffset[0] = -520;
+    }
+
+    if(mapOffset[1] <= 320 && mapOffset[1] >= -230){
+        y = mouseY - pmouseY;
+    }
+    else if(mapOffset[1] >= 320){
+        mapOffset[1] = 320;
+    }
+    else if(mapOffset[1] <= -230){
+        mapOffset[1] = -230;
+    }
+    mapOffset = [mapOffset[0]+x, mapOffset[1]+y]
+    
+    console.log(mapOffset)
+    
+
+ }
+
+ function selectCountry(name){
     switch(name){
         case "united_arab_emirates":
             console.log(name)
@@ -532,25 +590,3 @@ function selectCountry(name){
     }
     
 }
-
-function zoomIn(){
-    if(z != zoom.length-1 || z < zoom.length-1){
-        z++
-        console.log(zoom[z])
-        document.getElementById('mapa').style.transform = "scale("+zoom[z]+")"
-    }
-}
-
-function zoomOut(){
-    if(z != 0 || z > 0){
-        z--
-        console.log(zoom[z])
-        document.getElementById('mapa').style.transform = "scale("+zoom[z]+")"
-    }
-}
-
-// function mouseDragged(){
-//     let x = mouseX - pmouseX;
-//     let y = mouseY - pmouseY;
-//     console.log(x+" "+y)
-// }
