@@ -3,15 +3,16 @@ svg{
     float: left;
     transition: ease 0.1s;
 }
-.world{
+.land{
     fill:white; transform: scale(0.65);
 }
 #data{
     width: 100px; height: auto;
     float:left;
 }
-
 #mapa{
+    position: relative;
+    z-index: 1;
     margin-left: 200px;
     transform-origin: center;
     transition: ease 0.1s;
@@ -28,6 +29,40 @@ svg{
     z-index: 2;
     float: left;
 }
+
+#canada{
+    transform: translate(50px, 0px);
+}
+
+canvas{
+    width: 1200px;
+    height: 2000px;
+}
+
+#nation{
+    opacity: 0;
+    transform: scale(0.8) translateY(-100px);
+    transition: ease 1s;
+}
+
+#container{
+    opacity: 0;
+    transition: ease 1s;
+}
+
+#title{
+    width: 280; height: 30;
+    background-color: #eee; font-family: Arial, Helvetica, sans-serif;
+    font-size: 28; padding:42;
+    float: left;
+}
+#data{
+    width: 400; height: 500;
+    background-color: #fff;
+    float: left;
+}
+
+/* HOVERY */
 
 #AE:hover{
     fill: yellow;
