@@ -16,7 +16,8 @@ function selectRegion(name){
 
 function getTitle(){
     let url = String(window.location.href);
-    let preTitle = url.substr(54);
+    let lastIndexOfSlash = url.lastIndexOf("/")+1;
+    let preTitle = url.substr(lastIndexOfSlash);
     let title = preTitle.replace(".html","");
     console.log(title)
     document.getElementById('title').innerHTML = title[0].toUpperCase()+title.substr(1);
