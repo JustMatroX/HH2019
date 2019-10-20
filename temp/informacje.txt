@@ -1,0 +1,3 @@
+RESPONSYWNY UKŁAD STRONY 
+wysokosci okreslane w vw i vh
+to tyle XD
