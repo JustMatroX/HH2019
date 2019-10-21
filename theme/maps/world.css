@@ -1,592 +1,606 @@
+body{
+    margin: 0;
+}
 svg{
-    margin-left: 50px;margin-top: 10px;
-    float: left;
     transition: ease 0.1s;
 }
-.land{
-    fill:white; transform: scale(0.65);
-}
-#data{
-    width: 100px; height: auto;
-    float:left;
-}
+
 #mapa{
-    position: relative;
+    width: 1010px; height: 650px;
+    position: absolute;
     z-index: 1;
-    margin-left: 200px;
+    top: 50%; left: 50%;
     transform-origin: center;
+    transform: translate( -50%, -50%);
     transition: ease 0.1s;
-    float:left;
 }
+
 #dirButtons{
+    margin: 50px;
     width: 50px;
     height: 200px;
     float:left;
 }
 .buttons{
-    background-color: #eee; width: 50px; height: 50px;
+    background-color: #eee; width: 5vw; height: 5vw;
     position: relative; user-select: none;
     z-index: 2;
     float: left;
 }
 
+.land{
+    fill:white;
+}
+
+/* NATIONS */
 #canada{
-    transform: translate(50px, 0px);
-}
-
-canvas{
-    width: 1200px;
-    height: 2000px;
-}
-
-#nation{
-    opacity: 0;
-    transform: scale(0.8) translateY(-100px);
+    opacity: 1;
+    transform: translate(0px, -70px) scale(0.7);
+    float: left; width: 50%;
     transition: ease 1s;
+}
+
+#return{
+    position: absolute;
+    user-select: none;
+    z-index: 2;
+    margin: 50px;
+    width: 5vw; height: 5vw;
+    background-color: #eee;
 }
 
 #container{
-    opacity: 0;
+    width: 100%; height: 100%;
+    border: 1px solid white;
+    opacity: 1;
     transition: ease 1s;
+}
+#container2{
+    margin-top: 10vh;
+    width: 50%;
+    float: left;
 }
 
 #title{
-    width: 280; height: 30;
-    background-color: #eee; font-family: Arial, Helvetica, sans-serif;
-    font-size: 28; padding:42;
+    width: 10vw; height: 4vh;
+    background-color: #eee; 
+    text-align: center; font-family: Arial, Helvetica, sans-serif;
+    font-size: 3vh; font-weight: bolder; padding: 1vh;
+    background-color: rgb(109, 209, 78); color: #333;
+    box-shadow: 1px 1px 0px 4px rgb(32, 151, 255);
     float: left;
 }
 #data{
-    width: 400; height: 400;
+    width: 35vw; height: 80vh; margin-top: 2vh; margin-left: 2vw;
     background-color: #fff;
-    float: left;
+    
 }
 
 /* HOVERY */
 
 #AE:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #AF:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #AL:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #AM:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #AO:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #AR:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #AT:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #AU:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #AZ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #BA:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #BD:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #BE:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #BF:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #BG:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #BI:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #BJ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #BN:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #BO:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #BR:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #BS:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #BT:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #BW:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #BY:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #BZ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #CA:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #CD:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #CF:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #CG:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #CH:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #CI:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #CL:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #CM:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #CN:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #CO:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #CR:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #CU:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #CY:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #CZ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #DE:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #DJ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #DK:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #DO:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #DZ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #EC:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #EE:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #EG:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #EH:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #ER:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #ES:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #ET:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #FK:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #FI:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #FJ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #FR:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #GA:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #GB:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #GE:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #GF:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #GH:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #GL:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #GM:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #GN:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #GQ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #GR:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #GT:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #GW:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #GY:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #HN:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #HR:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #HT:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #HU:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #ID:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #IE:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #IL:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #IN:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #IQ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #IR:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #IS:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #IT:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #JM:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #JO:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #JP:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #KE:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #KG:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #KH:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #KP:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #KR:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #XK:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #KW:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #KZ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #LA:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #LB:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #LK:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #LR:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #LS:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #LT:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #LU:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #LV:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #LY:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #MA:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #MD:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #ME:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #MG:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #MK:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #ML:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #MM:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #MN:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #MR:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #MW:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #MX:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #MY:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #MZ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #NA:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #NC:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #NE:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #NG:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #NI:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #NL:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #NO:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #NP:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #NZ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #OM:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #PA:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #PE:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #PG:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #PH:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #PL:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #PK:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #PR:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #PS:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #PT:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #PY:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #QA:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #RO:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #RS:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #RU:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #RW:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #SA:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #SB:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #SD:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #SE:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #SI:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #SJ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #SK:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #SL:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #SN:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #SO:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #SR:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #SS:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #SV:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #SY:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #SZ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #TD:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #TG:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #TH:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #TJ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #TL:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #TM:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #TN:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #TR:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #TT:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #TW:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #TZ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #UA:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #UG:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #US:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #UY:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #UZ:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #VE:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #VN:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #VU:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #YE:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #ZA:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #ZM:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 #ZW:hover{
-    fill: yellow;
+    fill: rgb(109, 209, 78);
 }
 

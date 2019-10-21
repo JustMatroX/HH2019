@@ -8,7 +8,7 @@ let title = getTitle()
 console.log(title);
 
 function fadeIn(){
-    document.getElementById('nation').style.opacity = '1';
+    document.getElementById('canada').style.opacity = '1';
     document.getElementById('container').style.opacity = '1';
 }
 

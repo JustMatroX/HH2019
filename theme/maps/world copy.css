@@ -1,0 +1,625 @@
+body{
+    margin: 0;
+}
+svg{
+    transition: ease 0.1s;
+}
+
+
+/* PHONE */
+@media only screen and (max-width: 600px){
+    #mapa{
+        width: 1010px; height: 650px;
+        position: relative;
+        z-index: 1;
+        top: 50%; left: 50%;
+        transform-origin: center;
+        transform: translate(-50%, -40%) scale(0.7);
+        transition: ease 0.1s;
+    }
+}
+
+/* TABLET */
+@media only screen and (min-width: 600px){
+    #mapa{
+        width: 1010px; height: 650px;
+        position: relative;
+        z-index: 1;
+        top: 50%; left: 50%;
+        transform-origin: center;
+        transform: translate(-50%, -45%) scale(0.8);
+        transition: ease 0.1s;
+    }
+}
+
+/* DESKTOP */
+@media only screen and (min-width: 768px){
+    #mapa{
+        width: 1010px; height: 650px;
+        position: absolute;
+        z-index: 1;
+        top: 50%; left: 50%;
+        transform-origin: center;
+        transform: translate(-50%, -50%) scale(1);
+        transition: ease 0.1s;
+    }
+}
+
+
+
+
+#dirButtons{
+    margin: 50px;
+    width: 50px;
+    height: 200px;
+    float:left;
+}
+.buttons{
+    background-color: #eee; width: 50px; height: 50px;
+    position: relative; user-select: none;
+    z-index: 2;
+    float: left;
+}
+
+.land{
+    fill:white;
+}
+
+/* NATIONS */
+#canada{
+    transform: translate(50px, 0px);
+}
+
+#nation{
+    opacity: 0;
+    transform: scale(0.8) translateY(-100px);
+    transition: ease 1s;
+}
+
+#container{
+    width: 100%; height: 100%;
+    border: 1px solid white;
+    opacity: 1;
+    transition: ease 1s;
+}
+
+#title{
+    width: 280; height: 30;
+    background-color: #eee; font-family: Arial, Helvetica, sans-serif;
+    font-size: 28; padding:42;
+    float: left;
+}
+#data{
+    width: 400; height: 400;
+    background-color: #fff;
+    float: left;
+}
+
+/* HOVERY */
+
+#AE:hover{
+    fill: yellow;
+}
+#AF:hover{
+    fill: yellow;
+}
+#AL:hover{
+    fill: yellow;
+}
+#AM:hover{
+    fill: yellow;
+}
+#AO:hover{
+    fill: yellow;
+}
+#AR:hover{
+    fill: yellow;
+}
+#AT:hover{
+    fill: yellow;
+}
+#AU:hover{
+    fill: yellow;
+}
+#AZ:hover{
+    fill: yellow;
+}
+#BA:hover{
+    fill: yellow;
+}
+#BD:hover{
+    fill: yellow;
+}
+#BE:hover{
+    fill: yellow;
+}
+#BF:hover{
+    fill: yellow;
+}
+#BG:hover{
+    fill: yellow;
+}
+#BI:hover{
+    fill: yellow;
+}
+#BJ:hover{
+    fill: yellow;
+}
+#BN:hover{
+    fill: yellow;
+}
+#BO:hover{
+    fill: yellow;
+}
+#BR:hover{
+    fill: yellow;
+}
+#BS:hover{
+    fill: yellow;
+}
+#BT:hover{
+    fill: yellow;
+}
+#BW:hover{
+    fill: yellow;
+}
+#BY:hover{
+    fill: yellow;
+}
+#BZ:hover{
+    fill: yellow;
+}
+#CA:hover{
+    fill: yellow;
+}
+#CD:hover{
+    fill: yellow;
+}
+#CF:hover{
+    fill: yellow;
+}
+#CG:hover{
+    fill: yellow;
+}
+#CH:hover{
+    fill: yellow;
+}
+#CI:hover{
+    fill: yellow;
+}
+#CL:hover{
+    fill: yellow;
+}
+#CM:hover{
+    fill: yellow;
+}
+#CN:hover{
+    fill: yellow;
+}
+#CO:hover{
+    fill: yellow;
+}
+#CR:hover{
+    fill: yellow;
+}
+#CU:hover{
+    fill: yellow;
+}
+#CY:hover{
+    fill: yellow;
+}
+#CZ:hover{
+    fill: yellow;
+}
+#DE:hover{
+    fill: yellow;
+}
+#DJ:hover{
+    fill: yellow;
+}
+#DK:hover{
+    fill: yellow;
+}
+#DO:hover{
+    fill: yellow;
+}
+#DZ:hover{
+    fill: yellow;
+}
+#EC:hover{
+    fill: yellow;
+}
+#EE:hover{
+    fill: yellow;
+}
+#EG:hover{
+    fill: yellow;
+}
+#EH:hover{
+    fill: yellow;
+}
+#ER:hover{
+    fill: yellow;
+}
+#ES:hover{
+    fill: yellow;
+}
+#ET:hover{
+    fill: yellow;
+}
+#FK:hover{
+    fill: yellow;
+}
+#FI:hover{
+    fill: yellow;
+}
+#FJ:hover{
+    fill: yellow;
+}
+#FR:hover{
+    fill: yellow;
+}
+#GA:hover{
+    fill: yellow;
+}
+#GB:hover{
+    fill: yellow;
+}
+#GE:hover{
+    fill: yellow;
+}
+#GF:hover{
+    fill: yellow;
+}
+#GH:hover{
+    fill: yellow;
+}
+#GL:hover{
+    fill: yellow;
+}
+#GM:hover{
+    fill: yellow;
+}
+#GN:hover{
+    fill: yellow;
+}
+#GQ:hover{
+    fill: yellow;
+}
+#GR:hover{
+    fill: yellow;
+}
+#GT:hover{
+    fill: yellow;
+}
+#GW:hover{
+    fill: yellow;
+}
+#GY:hover{
+    fill: yellow;
+}
+#HN:hover{
+    fill: yellow;
+}
+#HR:hover{
+    fill: yellow;
+}
+#HT:hover{
+    fill: yellow;
+}
+#HU:hover{
+    fill: yellow;
+}
+#ID:hover{
+    fill: yellow;
+}
+#IE:hover{
+    fill: yellow;
+}
+#IL:hover{
+    fill: yellow;
+}
+#IN:hover{
+    fill: yellow;
+}
+#IQ:hover{
+    fill: yellow;
+}
+#IR:hover{
+    fill: yellow;
+}
+#IS:hover{
+    fill: yellow;
+}
+#IT:hover{
+    fill: yellow;
+}
+#JM:hover{
+    fill: yellow;
+}
+#JO:hover{
+    fill: yellow;
+}
+#JP:hover{
+    fill: yellow;
+}
+#KE:hover{
+    fill: yellow;
+}
+#KG:hover{
+    fill: yellow;
+}
+#KH:hover{
+    fill: yellow;
+}
+#KP:hover{
+    fill: yellow;
+}
+#KR:hover{
+    fill: yellow;
+}
+#XK:hover{
+    fill: yellow;
+}
+#KW:hover{
+    fill: yellow;
+}
+#KZ:hover{
+    fill: yellow;
+}
+#LA:hover{
+    fill: yellow;
+}
+#LB:hover{
+    fill: yellow;
+}
+#LK:hover{
+    fill: yellow;
+}
+#LR:hover{
+    fill: yellow;
+}
+#LS:hover{
+    fill: yellow;
+}
+#LT:hover{
+    fill: yellow;
+}
+#LU:hover{
+    fill: yellow;
+}
+#LV:hover{
+    fill: yellow;
+}
+#LY:hover{
+    fill: yellow;
+}
+#MA:hover{
+    fill: yellow;
+}
+#MD:hover{
+    fill: yellow;
+}
+#ME:hover{
+    fill: yellow;
+}
+#MG:hover{
+    fill: yellow;
+}
+#MK:hover{
+    fill: yellow;
+}
+#ML:hover{
+    fill: yellow;
+}
+#MM:hover{
+    fill: yellow;
+}
+#MN:hover{
+    fill: yellow;
+}
+#MR:hover{
+    fill: yellow;
+}
+#MW:hover{
+    fill: yellow;
+}
+#MX:hover{
+    fill: yellow;
+}
+#MY:hover{
+    fill: yellow;
+}
+#MZ:hover{
+    fill: yellow;
+}
+#NA:hover{
+    fill: yellow;
+}
+#NC:hover{
+    fill: yellow;
+}
+#NE:hover{
+    fill: yellow;
+}
+#NG:hover{
+    fill: yellow;
+}
+#NI:hover{
+    fill: yellow;
+}
+#NL:hover{
+    fill: yellow;
+}
+#NO:hover{
+    fill: yellow;
+}
+#NP:hover{
+    fill: yellow;
+}
+#NZ:hover{
+    fill: yellow;
+}
+#OM:hover{
+    fill: yellow;
+}
+#PA:hover{
+    fill: yellow;
+}
+#PE:hover{
+    fill: yellow;
+}
+#PG:hover{
+    fill: yellow;
+}
+#PH:hover{
+    fill: yellow;
+}
+#PL:hover{
+    fill: yellow;
+}
+#PK:hover{
+    fill: yellow;
+}
+#PR:hover{
+    fill: yellow;
+}
+#PS:hover{
+    fill: yellow;
+}
+#PT:hover{
+    fill: yellow;
+}
+#PY:hover{
+    fill: yellow;
+}
+#QA:hover{
+    fill: yellow;
+}
+#RO:hover{
+    fill: yellow;
+}
+#RS:hover{
+    fill: yellow;
+}
+#RU:hover{
+    fill: yellow;
+}
+#RW:hover{
+    fill: yellow;
+}
+#SA:hover{
+    fill: yellow;
+}
+#SB:hover{
+    fill: yellow;
+}
+#SD:hover{
+    fill: yellow;
+}
+#SE:hover{
+    fill: yellow;
+}
+#SI:hover{
+    fill: yellow;
+}
+#SJ:hover{
+    fill: yellow;
+}
+#SK:hover{
+    fill: yellow;
+}
+#SL:hover{
+    fill: yellow;
+}
+#SN:hover{
+    fill: yellow;
+}
+#SO:hover{
+    fill: yellow;
+}
+#SR:hover{
+    fill: yellow;
+}
+#SS:hover{
+    fill: yellow;
+}
+#SV:hover{
+    fill: yellow;
+}
+#SY:hover{
+    fill: yellow;
+}
+#SZ:hover{
+    fill: yellow;
+}
+#TD:hover{
+    fill: yellow;
+}
+#TG:hover{
+    fill: yellow;
+}
+#TH:hover{
+    fill: yellow;
+}
+#TJ:hover{
+    fill: yellow;
+}
+#TL:hover{
+    fill: yellow;
+}
+#TM:hover{
+    fill: yellow;
+}
+#TN:hover{
+    fill: yellow;
+}
+#TR:hover{
+    fill: yellow;
+}
+#TT:hover{
+    fill: yellow;
+}
+#TW:hover{
+    fill: yellow;
+}
+#TZ:hover{
+    fill: yellow;
+}
+#UA:hover{
+    fill: yellow;
+}
+#UG:hover{
+    fill: yellow;
+}
+#US:hover{
+    fill: yellow;
+}
+#UY:hover{
+    fill: yellow;
+}
+#UZ:hover{
+    fill: yellow;
+}
+#VE:hover{
+    fill: yellow;
+}
+#VN:hover{
+    fill: yellow;
+}
+#VU:hover{
+    fill: yellow;
+}
+#YE:hover{
+    fill: yellow;
+}
+#ZA:hover{
+    fill: yellow;
+}
+#ZM:hover{
+    fill: yellow;
+}
+#ZW:hover{
+    fill: yellow;
+}
+
