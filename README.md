@@ -15,5 +15,7 @@ Do zrobienia:
   -dodanie wszystkich map svg,
   -dodanie html'ów do plików,
   
+  -zrobić i dopasować rozmiarowo przyzwoite obrazki dla buttonów
+  
 Opcjonalne:
   -znaleźć/zrobić jakieś tło dla strony
