@@ -16,6 +16,7 @@ Do zrobienia:
   -dodanie html'ów do plików,
   
   -zrobić i dopasować rozmiarowo przyzwoite obrazki dla buttonów
+  -treść problemów (4Mati).
   
 Opcjonalne:
   -znaleźć/zrobić jakieś tło dla strony
