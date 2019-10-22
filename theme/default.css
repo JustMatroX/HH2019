@@ -89,6 +89,7 @@ iframe{
     height: 10vh; padding: 1vw 3vw 2vw 3vw;
     float:left;
     background-color: rgb(238, 238, 238);
+    text-align: center;
 }
 
 [class*="upper"] a{
