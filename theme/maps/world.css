@@ -17,17 +17,14 @@ svg{
 
 #dirButtons{
     margin: 50px;
-    width: 50px;
-    height: 200px;
     float:left;
 }
 .buttons{
-    background-color: #eee; width: 5vw; height: 5vw;
-    position: relative; user-select: none;
+    background-color: #eee; width: 30px; height: 30px;
+    position: relative; user-select: none; 
     z-index: 2;
     float: left;
 }
-
 .land{
     fill:white;
 }
@@ -35,9 +32,9 @@ svg{
 /* NATIONS */
 #canada{
     opacity: 1;
-    transform: translate(0px, -70px) scale(0.7);
+    transform: translate(0px, -80px) scale(0.65);
     float: left; width: 50%;
-    transition: ease 1s;
+    /* transition: ease 1s; */
 }
 
 #return{

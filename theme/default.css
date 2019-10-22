@@ -3,15 +3,40 @@
     box-sizing: border-box;
 }
             /* For mobile phones: */
+            iframe{
+                margin-top: 10vh;
+            }
             [class*="k"] {
-                width: 100%;
+                width: 100%; height: 80vh;
+            }
+            [class*=cont]{
+                display: table; margin: 0 auto;
+                padding: 20vw 0;
+                height: 100vh;
+                background-color: rgb(238, 238, 238);
+            }
+            
+            [class*=cont] span{
+                display: block;
+                text-align: center; font-family: Arial, Helvetica, sans-serif;
+                font-size: 5vh; font-weight: bolder; 
+                color: rgb(107, 205, 130);
+            }
+            
+            [class*=cont] p{
+                padding: 0 20vw;
             }
             @media only screen and (max-width: 600px) {
-                .upper1{display:none;}
-                .upper3{display:none;}
+                [class*='upper']{
+                    width: 33.33%;
+                    display: inline-block;
+                }
+                .cont1{
+                    padding-top: 2vh;
+                }
                 iframe{
-                    height: 90vh; width: 99.5vw;
-                    display: table; margin: 0 auto;
+                    height: 100vh; width: 100vw;
+                    display: table;
                     overflow: hidden;
                     border: none;
                 }
@@ -31,9 +56,12 @@
                         .kk10 {width: 83.33%;}
                         .kk11 {width: 91.66%;}
                         .kk12 {width: 100%;}
+                        .cont1{
+                            padding-top: 2vh;
+                        }
                         iframe{
-                            height: 90vh; width: 90vw;
-                            display: table; margin: 0 auto;
+                            height: 100vh; width: 100vw;
+                            display: table;
                             overflow: hidden;
                             border: none;
                         }
@@ -52,9 +80,15 @@
                             .k10 {width: 83.33%;}
                             .k11 {width: 91.66%;}
                             .k12 {width: 100%;}
+                            .cont1{
+                                padding-top: 8vh;
+                            }
+                            .header{
+                                box-shadow: 0px 0px 30px grey;
+                            }
                             iframe{
-                                height: 90vh; width: 80vw;
-                                display: table; margin: 0 auto;
+                                height: 75vh; width: 65vw;
+                                display: table; margin: 0 auto; margin-top: 7vh;
                                 overflow: hidden;
                                 border: none;
                             }
@@ -108,14 +142,3 @@ a{
     color: #333; font-family: Arial, Helvetica, sans-serif;
 }
 
-[class*=cont]{
-    display: table; margin: 0 auto;
-    height: 100vh; padding: 5vw;
-    background-color: rgb(238, 238, 238);
-}
-[class*=cont] span{
-    display: block;
-    text-align: center; font-family: Arial, Helvetica, sans-serif;
-    font-size: 5vh; font-weight: bolder; 
-    color: rgb(107, 205, 130);
-}
