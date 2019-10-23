@@ -2,9 +2,10 @@
 Hack Heroes 2019 Project repository.
 
 Do zrobienia:
-  -interaktywność na telefonie
+  
   -ikony dla problemów i przycisków nawigacji,
-  -poprawki zaznaczania kraju, i wybranie
+  
+  -poprawki wyświetlania się krajów,
   
   -podpięcie bazy danych i wypisywanie informacji do tabeli przy wybranym kraju,
   
@@ -14,3 +15,5 @@ Do zrobienia:
   
 Opcjonalne:
   -znaleźć/zrobić jakieś tło dla strony
+  -interaktywność na telefonie
+  -poprawki zaznaczania kraju
