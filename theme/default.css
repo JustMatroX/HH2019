@@ -1,3 +1,52 @@
+html,body{
+    background-color: rgb(212, 212, 212);
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    scroll-behavior: smooth;
+    overflow: hidden;
+    border: none;
+}
+
+.header{
+    position: fixed;
+    width: 100vw;
+}
+
+.buttons{
+    display: inline-block;
+    width: 200px; height: 100px;
+}
+
+#page{
+    float:left;
+}
+
+iframe{
+    background-color: rgb(32, 151, 255);
+}
+
+[class*="upper"]{
+    height: 10vh; padding: 1vw 3vw 2vw 3vw;
+    float:left;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+}
+
+[class*="upper"] a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333; text-decoration: none;
+    font-size: 3vh;
+    text-align: center;
+}
+
+.upper4 a{
+    font-size: 2.5vh; font-weight: bolder;
+    color: rgb(107, 205, 130);
+}
+
+a{
+    color: #333; font-family: Arial, Helvetica, sans-serif;
+}
 /*RESPONSIVITY*/
 *{
     box-sizing: border-box;
@@ -7,7 +56,7 @@
                 margin-top: 10vh;
             }
             [class*="k"] {
-                width: 100%; height: 80vh;
+                width: 100%;
             }
             [class*=cont]{
                 display: table; margin: 0 auto;
@@ -27,8 +76,20 @@
                 padding: 0 20vw;
             }
             @media only screen and (max-width: 600px) {
-                [class*='upper']{
-                    width: 33.33%;
+                [class*="upper"] a{
+                    font-size:2.5vh;
+                    padding:0;
+                }
+                .upper1{
+                    width: 25%;
+                    display: inline-block;
+                }
+                .upper3{
+                    width: 25%;
+                    display: inline-block;
+                }
+                .upper4{
+                    width: 50%;
                     display: inline-block;
                 }
                 .cont1{
@@ -43,7 +104,7 @@
             }
                     /* For tablets: */
                     @media only screen and (min-width: 600px) {
-                        
+
                         .kk1 {width: 8.33%;}
                         .kk2 {width: 16.66%;}
                         .kk3 {width: 25%;}
@@ -93,52 +154,5 @@
                                 border: none;
                             }
                         }
-html,body{
-    background-color: rgb(212, 212, 212);
-    margin:0;
-    scroll-behavior: smooth;
-    overflow: hidden;
-    border: none;
-}
 
-.header{
-    position: fixed;
-    width: 100vw;
-}
-
-.buttons{
-    display: inline-block;
-    width: 200px; height: 100px;
-}
-
-#page{
-    float:left;
-}
-
-iframe{
-    background-color: rgb(32, 151, 255);
-}
-
-[class*="upper"]{
-    height: 10vh; padding: 1vw 3vw 2vw 3vw;
-    float:left;
-    background-color: rgb(238, 238, 238);
-    text-align: center;
-}
-
-[class*="upper"] a{
-    font-family: Arial, Helvetica, sans-serif;
-    color: #333; text-decoration: none;
-    font-size: 3vh;
-    text-align: center;
-}
-
-.upper4 a{
-    font-size: 3vh; font-weight: bolder;
-    color: rgb(107, 205, 130);
-}
-
-a{
-    color: #333; font-family: Arial, Helvetica, sans-serif;
-}
 
