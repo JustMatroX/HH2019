@@ -16,12 +16,20 @@ svg{
 }
 
 #dirButtons{
-    margin: 50px;
+    margin-top: 6vh; margin-left: 2vh;
     float:left;
 }
 .buttons{
-    background-color: #eee; width: 30px; height: 30px;
+    background-color: #eee; width: 35px; height: 35px; 
+    margin-bottom: 5px;
     position: relative; user-select: none; 
+    z-index: 2;
+    float: left;
+}
+#refresh{
+    background-color: #eee; width: 50px; height: 50px;
+    position: relative; user-select: none; 
+    margin-top: 8vh; margin-left: 2vh;
     z-index: 2;
     float: left;
 }

@@ -80,23 +80,31 @@ function zoomOut(){
     let x = 0
     let y = 0
     
-    if(mapOffset[0] >= -1060 && mapOffset[0] <= 140){    //GRANICA LEWA i PRAWA
+    let barrier = {
+        minX: -1460 * zoom[z],
+        maxX: 420 * zoom[z],
+        minY: -1060 * zoom[z],
+        maxY: 320 * zoom[z]
+    }
+    console.log(barrier)
+    if(mapOffset[0] >= barrier.minX && mapOffset[0] <= barrier.maxX){    //GRANICA LEWA i PRAWA
         x = mouseX - pmouseX;
     }
-    else if(mapOffset[0] <= -1060){ //LEWA
+    else if(mapOffset[0] <= barrier.minX){ //LEWA
         x = 1;
     }
-    else if(mapOffset[0] >= 140){   //PRAWA
+    else if(mapOffset[0] >= barrier.maxX){   //PRAWA
         x = -1;
     }
 
-    if(mapOffset[1] >= -720 && mapOffset[1] <= 40){     //GRANICA GÓRNA i DOLNA
+    if(mapOffset[1] >= barrier.minY && mapOffset[1] <= barrier.maxY){     //GRANICA GÓRNA i DOLNA
         y = mouseY - pmouseY;
     }
-    else if(mapOffset[1] <= -720){  //GÓRNA
+    else if(mapOffset[1] <= barrier.minY){  //GÓRNA
+        console.log()
         y = 1;
     }
-    else if(mapOffset[1] >= 40){    //DOLNA
+    else if(mapOffset[1] >= barrier.maxY){    //DOLNA
         y = -1;
     }
     

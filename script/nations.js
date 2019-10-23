@@ -15,10 +15,6 @@ function fadeIn(){
     document.getElementById('container').style.opacity = '1';
 }
 
-function selectRegion(name){
-    //cokolwiek dla regionów (można skopiować switcha z world.js i zmienić case'y)
-}
-
 function getTitle(){
     let url = String(window.location.href);
     let lastIndexOfSlash = url.lastIndexOf("/")+1;
