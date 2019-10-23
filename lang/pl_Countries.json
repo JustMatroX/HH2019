@@ -1,0 +1,867 @@
+[
+{
+    "Id": "1",
+    "countryName": "united_arab_emirates",
+    "finCountryName": "Zjednoczone Emiraty Arabskie"
+},
+{
+    "Id": "2",
+    "countryName": "afghanistan",
+    "finCountryName": "Afganistan"
+},
+{
+    "Id": "3",
+    "countryName": "albania",
+    "finCountryName": "Albania"
+},
+{
+    "Id": "4",
+    "countryName": "armenia",
+    "finCountryName": "Armenia"
+},
+{
+    "Id": "5",
+    "countryName": "angola",
+    "finCountryName": "Angola"
+},
+{
+    "Id": "6",
+    "countryName": "argentina",
+    "finCountryName": "Argentyna"
+},
+{
+    "Id": "7",
+    "countryName": "austria",
+    "finCountryName": "Austria"
+},
+{
+    "Id": "8",
+    "countryName": "australia",
+    "finCountryName": "Australia"
+},
+{
+    "Id": "9",
+    "countryName": "azerbaijan",
+    "finCountryName": "Azerbejdżan"
+},
+{
+    "Id": "10",
+    "countryName": "bosnia_and_herzegovina",
+    "finCountryName": "Bośnia i Hercegowina"
+},
+{
+    "Id": "11",
+    "countryName": "bangladesh",
+    "finCountryName": "Bangladesz"
+},
+{
+    "Id": "12",
+    "countryName": "belgium",
+    "finCountryName": "Belgia"
+},
+{
+    "Id": "13",
+    "countryName": "burkina_faso",
+    "finCountryName": "Burkina Faso"
+},
+{
+    "Id": "14",
+    "countryName": "bulgaria",
+    "finCountryName": "Bułgaria"
+},
+{
+    "Id": "15",
+    "countryName": "burundi",
+    "finCountryName": "Burundi"
+},
+{
+    "Id": "16",
+    "countryName": "benin",
+    "finCountryName": "Benin"
+},
+{
+    "Id": "17",
+    "countryName": "brunei_darussalam",
+    "finCountryName": "Brunei Darussalam"
+},
+{
+    "Id": "18",
+    "countryName": "bolivia",
+    "finCountryName": "Boliwia"
+},
+{
+    "Id": "19",
+    "countryName": "brazil",
+    "finCountryName": "Brazylia"
+},
+{
+    "Id": "20",
+    "countryName": "bahamas",
+    "finCountryName": "Bahamy"
+},
+{
+    "Id": "21",
+    "countryName": "bhutan",
+    "finCountryName": "Bhutan"
+},
+{
+    "Id": "22",
+    "countryName": "botswana",
+    "finCountryName": "Botswana"
+},
+{
+    "Id": "23",
+    "countryName": "belarus",
+    "finCountryName": "Białoruś"
+},
+{
+    "Id": "24",
+    "countryName": "belize",
+    "finCountryName": "Belize"
+},
+{
+    "Id": "25",
+    "countryName": "canada",
+    "finCountryName": "Kanada"
+},
+{
+    "Id": "26",
+    "countryName": "democratic_republic_of_congo",
+    "finCountryName": "Demokratyczna Republika Kongo"
+},
+{
+    "Id": "27",
+    "countryName": "central_african_republic",
+    "finCountryName": "Republika Środkowoafrykańska"
+},
+{
+    "Id": "28",
+    "countryName": "republic_of_congo",
+    "finCountryName": "Republika Kongo"
+},
+{
+    "Id": "29",
+    "countryName": "switzerland",
+    "finCountryName": "Szwajcaria"
+},
+{
+    "Id": "30",
+    "countryName": "côte_dIvoire",
+    "finCountryName": "Wybrzeże Kości Słoniowej"
+},
+{
+    "Id": "31",
+    "countryName": "chile",
+    "finCountryName": "Chile"
+},
+{
+    "Id": "32",
+    "countryName": "cameroon",
+    "finCountryName": "Kamerun"
+},
+{
+    "Id": "33",
+    "countryName": "china",
+    "finCountryName": "Chiny"
+},
+{
+    "Id": "34",
+    "countryName": "colombia",
+    "finCountryName": "Kolumbia"
+},
+{
+    "Id": "35",
+    "countryName": "costa_rica",
+    "finCountryName": "Kostaryka"
+},
+{
+    "Id": "36",
+    "countryName": "cuba",
+    "finCountryName": "Kuba"
+},
+{
+    "Id": "37",
+    "countryName": "cyprus",
+    "finCountryName": "Cypr"
+},
+{
+    "Id": "38",
+    "countryName": "czechia",
+    "finCountryName": "Czechy"
+},
+{
+    "Id": "39",
+    "countryName": "germany",
+    "finCountryName": "Niemcy"
+},
+{
+    "Id": "40",
+    "countryName": "djibouti",
+    "finCountryName": "Dżibuti"
+},
+{
+    "Id": "41",
+    "countryName": "denmark",
+    "finCountryName": "Dania"
+},
+{
+    "Id": "42",
+    "countryName": "dominican_republic",
+    "finCountryName": "Dominikana"
+},
+{
+    "Id": "43",
+    "countryName": "algeria",
+    "finCountryName": "Algieria"
+},
+{
+    "Id": "44",
+    "countryName": "ecuador",
+    "finCountryName": "Ekwador"
+},
+{
+    "Id": "45",
+    "countryName": "estonia",
+    "finCountryName": "Estonia"
+},
+{
+    "Id": "46",
+    "countryName": "egypt",
+    "finCountryName": "Egipt"
+},
+{
+    "Id": "47",
+    "countryName": "western_sahara",
+    "finCountryName": "Sahara Zachodnia"
+},
+{
+    "Id": "48",
+    "countryName": "eritrea",
+    "finCountryName": "Erytrea"
+},
+{
+    "Id": "49",
+    "countryName": "spain",
+    "finCountryName": "Hiszpania"
+},
+{
+    "Id": "50",
+    "countryName": "ethiopia",
+    "finCountryName": "Etiopia"
+},
+{
+    "Id": "51",
+    "countryName": "falkland_islands",
+    "finCountryName": "Falklandy"
+},
+{
+    "Id": "52",
+    "countryName": "finland",
+    "finCountryName": "Finlandia"
+},
+{
+    "Id": "53",
+    "countryName": "fiji",
+    "finCountryName": "Fidżi"
+},
+{
+    "Id": "54",
+    "countryName": "france",
+    "finCountryName": "Francja"
+},
+{
+    "Id": "55",
+    "countryName": "gabon",
+    "finCountryName": "Gabon"
+},
+{
+    "Id": "56",
+    "countryName": "united_kingdom",
+    "finCountryName": "Wielka Brytania"
+},
+{
+    "Id": "57",
+    "countryName": "georgia",
+    "finCountryName": "Gruzja"
+},
+{
+    "Id": "58",
+    "countryName": "french_guiana",
+    "finCountryName": "Gujana Francuska"
+},
+{
+    "Id": "59",
+    "countryName": "ghana",
+    "finCountryName": "Ghana"
+},
+{
+    "Id": "60",
+    "countryName": "greenland",
+    "finCountryName": "Grenlandia"
+},
+{
+    "Id": "61",
+    "countryName": "gambia",
+    "finCountryName": "Gambia"
+},
+{
+    "Id": "62",
+    "countryName": "guinea",
+    "finCountryName": "Gwinea"
+},
+{
+    "Id": "63",
+    "countryName": "equatorial_guinea",
+    "finCountryName": "Gwinea Równikowa"
+},
+{
+    "Id": "64",
+    "countryName": "greece",
+    "finCountryName": "Grecja"
+},
+{
+    "Id": "65",
+    "countryName": "guatemala",
+    "finCountryName": "Gwatemala"
+},
+{
+    "Id": "66",
+    "countryName": "guinea_bissau",
+    "finCountryName": "Gwinea Bissau"
+},
+{
+    "Id": "67",
+    "countryName": "guyana",
+    "finCountryName": "Gujana"
+},
+{
+    "Id": "68",
+    "countryName": "honduras",
+    "finCountryName": "Honduras"
+},
+{
+    "Id": "69",
+    "countryName": "croatia",
+    "finCountryName": "Chorwacja"
+},
+{
+    "Id": "70",
+    "countryName": "haiti",
+    "finCountryName": "Haiti"
+},
+{
+    "Id": "71",
+    "countryName": "hungary",
+    "finCountryName": "Węgry"
+},
+{
+    "Id": "72",
+    "countryName": "indonesia",
+    "finCountryName": "Indonezja"
+},
+{
+    "Id": "73",
+    "countryName": "ireland",
+    "finCountryName": "Irlandia"
+},
+{
+    "Id": "74",
+    "countryName": "israel",
+    "finCountryName": "Izrael"
+},
+{
+    "Id": "75",
+    "countryName": "india",
+    "finCountryName": "Indie"
+},
+{
+    "Id": "76",
+    "countryName": "iraq",
+    "finCountryName": "Irak"
+},
+{
+    "Id": "77",
+    "countryName": "iran",
+    "finCountryName": "Iran"
+},
+{
+    "Id": "78",
+    "countryName": "iceland",
+    "finCountryName": "Islandia"
+},
+{
+    "Id": "79",
+    "countryName": "italy",
+    "finCountryName": "Włochy"
+},
+{
+    "Id": "80",
+    "countryName": "jamaica",
+    "finCountryName": "Jamajka"
+},
+{
+    "Id": "81",
+    "countryName": "jordan",
+    "finCountryName": "Jordania"
+},
+{
+    "Id": "82",
+    "countryName": "japan",
+    "finCountryName": "Japonia"
+},
+{
+    "Id": "83",
+    "countryName": "kenya",
+    "finCountryName": "Kenia"
+},
+{
+    "Id": "84",
+    "countryName": "kyrgyzstan",
+    "finCountryName": "Kirgistan"
+},
+{
+    "Id": "85",
+    "countryName": "cambodia",
+    "finCountryName": "Kambodża"
+},
+{
+    "Id": "86",
+    "countryName": "north_korea",
+    "finCountryName": "Korea Północna"
+},
+{
+    "Id": "87",
+    "countryName": "south_korea",
+    "finCountryName": "Korea Południowa"
+},
+{
+    "Id": "88",
+    "countryName": "kosovo",
+    "finCountryName": "Kosowo"
+},
+{
+    "Id": "89",
+    "countryName": "kuwait",
+    "finCountryName": "kuwejt"
+},
+{
+    "Id": "90",
+    "countryName": "kazakhstan",
+    "finCountryName": "Kazachstan"
+},
+{
+    "Id": "91",
+    "countryName": "lao_peoples_democratic_republic",
+    "finCountryName": "Laos"
+},
+{
+    "Id": "92",
+    "countryName": "lebanon",
+    "finCountryName": "Liban"
+},
+{
+    "Id": "93",
+    "countryName": "sri_lanka",
+    "finCountryName": "Sri Lanka"
+},
+{
+    "Id": "94",
+    "countryName": "liberia",
+    "finCountryName": "Liberia"
+},
+{
+    "Id": "95",
+    "countryName": "lesotho",
+    "finCountryName": "Lesotho"
+},
+{
+    "Id": "96",
+    "countryName": "lithuania",
+    "finCountryName": "Litwa"
+},
+{
+    "Id": "97",
+    "countryName": "luxembourg",
+    "finCountryName": "Luksemburg"
+},
+{
+    "Id": "98",
+    "countryName": "latvia",
+    "finCountryName": "Łotwa"
+},
+{
+    "Id": "99",
+    "countryName": "libya",
+    "finCountryName": "Libia"
+},
+{
+    "Id": "100",
+    "countryName": "morocco",
+    "finCountryName": "Maroko"
+},
+{
+    "Id": "101",
+    "countryName": "moldova",
+    "finCountryName": "Mołdawia"
+},
+{
+    "Id": "102",
+    "countryName": "montenegro",
+    "finCountryName": "Czarnogóra"
+},
+{
+    "Id": "103",
+    "countryName": "madagascar",
+    "finCountryName": "Madagaskar"
+},
+{
+    "Id": "104",
+    "countryName": "macedonia",
+    "finCountryName": "Macedonia"
+},
+{
+    "Id": "105",
+    "countryName": "mali",
+    "finCountryName": "Mali"
+},
+{
+    "Id": "106",
+    "countryName": "myanmar",
+    "finCountryName": "Mjanma"
+},
+{
+    "Id": "107",
+    "countryName": "mongolia",
+    "finCountryName": "Mongolia"
+},
+{
+    "Id": "108",
+    "countryName": "mauritania",
+    "finCountryName": "Mauretania"
+},
+{
+    "Id": "109",
+    "countryName": "malawi",
+    "finCountryName": "Malawi"
+},
+{
+    "Id": "110",
+    "countryName": "mexico",
+    "finCountryName": "Meksyk"
+},
+{
+    "Id": "111",
+    "countryName": "malaysia",
+    "finCountryName": "Malezja"
+},
+{
+    "Id": "112",
+    "countryName": "mozambique",
+    "finCountryName": "Mozambik"
+},
+{
+    "Id": "113",
+    "countryName": "namibia",
+    "finCountryName": "Namiba"
+},
+{
+    "Id": "114",
+    "countryName": "new_caledonia",
+    "finCountryName": "Nowa Kaledonia"
+},
+{
+    "Id": "115",
+    "countryName": "niger",
+    "finCountryName": "Niger"
+},
+{
+    "Id": "116",
+    "countryName": "nigeria",
+    "finCountryName": "Nigeria"
+},
+{
+    "Id": "117",
+    "countryName": "nicaragua",
+    "finCountryName": "Nikaragua"
+},
+{
+    "Id": "118",
+    "countryName": "netherlands",
+    "finCountryName": "Holandia"
+},
+{
+    "Id": "119",
+    "countryName": "norway",
+    "finCountryName": "Norwegia"
+},
+{
+    "Id": "120",
+    "countryName": "nepal",
+    "finCountryName": "Nepal"
+},
+{
+    "Id": "121",
+    "countryName": "new_zealand",
+    "finCountryName": "Nowa Zelandia"
+},
+{
+    "Id": "122",
+    "countryName": "oman",
+    "finCountryName": "Oman"
+},
+{
+    "Id": "123",
+    "countryName": "panama",
+    "finCountryName": "Panama"
+},
+{
+    "Id": "124",
+    "countryName": "peru",
+    "finCountryName": "Peru"
+},
+{
+    "Id": "125",
+    "countryName": "papua_new_guinea",
+    "finCountryName": "Papua-Nowa Gwinea"
+},
+{
+    "Id": "126",
+    "countryName": "philippines",
+    "finCountryName": "Filipiny"
+},
+{
+    "Id": "127",
+    "countryName": "poland",
+    "finCountryName": "Polska"
+},
+{
+    "Id": "128",
+    "countryName": "pakistan",
+    "finCountryName": "Pakistan"
+},
+{
+    "Id": "129",
+    "countryName": "puerto_rico",
+    "finCountryName": "Portoryko"
+},
+{
+    "Id": "130",
+    "countryName": "palestinian_territories",
+    "finCountryName": "Palestyna"
+},
+{
+    "Id": "131",
+    "countryName": "portugal",
+    "finCountryName": "Portugalia"
+},
+{
+    "Id": "132",
+    "countryName": "paraguay",
+    "finCountryName": "Paragwaj"
+},
+{
+    "Id": "133",
+    "countryName": "qatar",
+    "finCountryName": "Katar"
+},
+{
+    "Id": "134",
+    "countryName": "romania",
+    "finCountryName": "Rumunia"
+},
+{
+    "Id": "135",
+    "countryName": "serbia",
+    "finCountryName": "Serbia"
+},
+{
+    "Id": "136",
+    "countryName": "russia",
+    "finCountryName": "Rosja"
+},
+{
+    "Id": "137",
+    "countryName": "rwanda",
+    "finCountryName": "Rwanda"
+},
+{
+    "Id": "138",
+    "countryName": "saudi_arabia",
+    "finCountryName": "Arabia Saudyjska"
+},
+{
+    "Id": "139",
+    "countryName": "solomon_islands",
+    "finCountryName": "Wyspy Salomona"
+},
+{
+    "Id": "140",
+    "countryName": "sudan",
+    "finCountryName": "Sudan"
+},
+{
+    "Id": "141",
+    "countryName": "sweden",
+    "finCountryName": "Szwecja"
+},
+{
+    "Id": "142",
+    "countryName": "slovenia",
+    "finCountryName": "Słowenia"
+},
+{
+    "Id": "143",
+    "countryName": "svalbard_and_jan_mayen",
+    "finCountryName": "Svalbard i Jan Mayer"
+},
+{
+    "Id": "144",
+    "countryName": "slovakia",
+    "finCountryName": "Słowacja"
+},
+{
+    "Id": "145",
+    "countryName": "sierra_leone",
+    "finCountryName": "Sierra Leone"
+},
+{
+    "Id": "146",
+    "countryName": "senegal",
+    "finCountryName": "Senegal"
+},
+{
+    "Id": "147",
+    "countryName": "somalia",
+    "finCountryName": "Somalia"
+},
+{
+    "Id": "148",
+    "countryName": "suriname",
+    "finCountryName": "Surinam"
+},
+{
+    "Id": "149",
+    "countryName": "south_sudan",
+    "finCountryName": "Południowy Sudan"
+},
+{
+    "Id": "150",
+    "countryName": "syria",
+    "finCountryName": "Syria"
+},
+{
+    "Id": "151",
+    "countryName": "swaziland",
+    "finCountryName": "Szwajcaria"
+},
+{
+    "Id": "152",
+    "countryName": "chad",
+    "finCountryName": "Czad"
+},
+{
+    "Id": "153",
+    "countryName": "togo",
+    "finCountryName": "Togo"
+},
+{
+    "Id": "154",
+    "countryName": "thailand",
+    "finCountryName": "Tajlandia"
+},
+{
+    "Id": "155",
+    "countryName": "tajikistan",
+    "finCountryName": "Tadżykistan"
+},
+{
+    "Id": "156",
+    "countryName": "timor_leste",
+    "finCountryName": "Timor Wschodni"
+},
+{
+    "Id": "157",
+    "countryName": "turkmenistan",
+    "finCountryName": "Turkmenistan"
+},
+{
+    "Id": "158",
+    "countryName": "tunisia",
+    "finCountryName": "Tunezja"
+},
+{
+    "Id": "159",
+    "countryName": "turkey",
+    "finCountryName": "Turcja"
+},
+{
+    "Id": "160",
+    "countryName": "trinidad_and_tobago",
+    "finCountryName": "Trinidad i Tobago"
+},
+{
+    "Id": "161",
+    "countryName": "taiwan",
+    "finCountryName": "Tajwan"
+},
+{
+    "Id": "162",
+    "countryName": "tanzania",
+    "finCountryName": "Tanzania"
+},
+{
+    "Id": "163",
+    "countryName": "ukraine",
+    "finCountryName": "Ukraina"
+},
+{
+    "Id": "164",
+    "countryName": "united_states",
+    "finCountryName": "Stany Zjednoczone"
+},
+{
+    "Id": "165",
+    "countryName": "uruguay",
+    "finCountryName": "Urugwaj"
+},
+{
+    "Id": "166",
+    "countryName": "uzbekistan",
+    "finCountryName": "Uzbekistan"
+},
+{
+    "Id": "167",
+    "countryName": "venezuela",
+    "finCountryName": "Wenezuela"
+},
+{
+    "Id": "168",
+    "countryName": "vietnam",
+    "finCountryName": "Wietnam"
+},
+{
+    "Id": "169",
+    "countryName": "vanuatu",
+    "finCountryName": "Vanuatu"
+},
+{
+    "Id": "170",
+    "countryName": "yamen",
+    "finCountryName": "Jamen"
+},
+{
+    "Id": "171",
+    "countryName": "south_africa",
+    "finCountryName": "Afryka Południowa"
+},
+{
+    "Id": "172",
+    "countryName": "zambia",
+    "finCountryName": "Zambia"
+},
+{
+    "Id": "173",
+    "countryName": "zimbabwe",
+    "finCountryName": "Zimbabwe"
+}
+]

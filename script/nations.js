@@ -1,11 +1,14 @@
+let nameTable;
+function preload(){
+    nameTable = loadJSON("../../lang/pl_Countries.json");
+}
+
 function setup(){
     fadeIn();
-    getTitle();
-   
+    setTitle();
 }
 
 let title = getTitle()
-console.log(title);
 
 function fadeIn(){
     document.getElementById('canada').style.opacity = '1';
@@ -21,7 +24,20 @@ function getTitle(){
     let lastIndexOfSlash = url.lastIndexOf("/")+1;
     let preTitle = url.substr(lastIndexOfSlash);
     let title = preTitle.replace(".html","");
-    document.getElementById('title').innerHTML = title[0].toUpperCase()+title.substr(1);
     return title;
     
+}
+
+function setTitle(){
+    let newName;
+    let i = 172;
+    while(i > 0){
+        if(nameTable[i]['countryName'] == title){
+            newName = nameTable[i]['finCountryName'];
+            document.getElementById('title').innerHTML = newName;
+            console.log(newName);
+            break;
+        }
+        i--;
+    }
 }
