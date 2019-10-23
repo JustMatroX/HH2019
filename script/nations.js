@@ -11,7 +11,7 @@ function setup(){
 let title = getTitle()
 
 function fadeIn(){
-    document.getElementById('canada').style.opacity = '1';
+    document.getElementsByClassName('country').style.opacity = '1';
     document.getElementById('container').style.opacity = '1';
 }
 
@@ -35,7 +35,6 @@ function setTitle(){
         if(nameTable[i]['countryName'] == title){
             newName = nameTable[i]['finCountryName'];
             document.getElementById('title').innerHTML = newName;
-            console.log(newName);
             break;
         }
         i--;

@@ -31,7 +31,6 @@ svg{
 
 /* NATIONS */
 #canada{
-    opacity: 1;
     transform: translate(0px, -80px) scale(0.65);
     float: left; width: 50%;
     /* transition: ease 1s; */
