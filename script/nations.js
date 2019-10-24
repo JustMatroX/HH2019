@@ -1,6 +1,35 @@
+let nameTable;
+function preload(){
+	nameTable = loadJSON('../../lang/pl_Countries.json');
+}
+
 function setup(){
 	getContent();
-    
+    setTitle()
+}
+
+function setTitle(){
+	let title = getTitle();
+    let newName;
+    let i = 172;
+    while(i > 0){
+        if(nameTable[i]['countryName'] == title){
+            newName = nameTable[i]['finCountryName'];
+            document.getElementById('title').innerHTML = newName;
+            break;
+        }
+        i--;
+    }
+}
+
+function getTitle(){
+	let url = String(window.location.href);
+    let lastIndexOfSlash = url.lastIndexOf("#")+1;
+    let preTitle = url.substr(lastIndexOfSlash);
+    let title = preTitle.replace(".html","");
+	console.log(title);
+	document.getElementById('title').innerHTML = title[0].toUpperCase()+title.substr(1);
+	return title;
 }
 
 function firstProblem(countryName)
@@ -56,11 +85,11 @@ function thirdProblem(countryName)
 
 function getContent(){
     let url = String(window.location.href);
-    let lastIndexOfSlash = url.lastIndexOf("/")+1;
+    let lastIndexOfSlash = url.lastIndexOf("#")+1;
     let preTitle = url.substr(lastIndexOfSlash);
     let title = preTitle.replace(".html","");
 	console.log(title);
-    document.getElementById('title').innerHTML = title[0].toUpperCase()+title.substr(1);
+	document.getElementById('svgVp').innerHTML = "<img id='svgImg' src='../svg/"+title+"Low.svg#svgView(viewBox(0,50,1250,1250))'/>"
 
     switch(title)
     {

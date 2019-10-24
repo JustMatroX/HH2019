@@ -38,15 +38,10 @@ svg{
 }
 
 /* NATIONS */
-#canada{
-    transform: translate(0px, -80px) scale(0.65);
-    float: left; width: 50%;
-    /* transition: ease 1s; */
-}
 
-.country{
+#svgImg{
     opacity: 1;
-    float: left; width: 50%;
+    float: left; width: 400px; height: 400px;
     transition: ease 1s;
 }
 

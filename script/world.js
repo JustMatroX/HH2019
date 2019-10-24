@@ -113,5 +113,6 @@ function zoomOut(){
  }
 
  function selectCountry(name){  //przejście do wybranego kraju
-    window.location.href = "../../maps/html/"+name+".html";
+    window.location.href = "../../maps/html/nation.html#"+name;
+    
  }

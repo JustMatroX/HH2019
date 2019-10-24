@@ -1,7 +1,7 @@
 [
 {
     "Id": "1",
-    "countryName": "united_arab_emirates",
+    "countryName": "unitedArabEmirates",
     "finCountryName": "Zjednoczone Emiraty Arabskie"
 },
 {
@@ -46,7 +46,7 @@
 },
 {
     "Id": "10",
-    "countryName": "bosnia_and_herzegovina",
+    "countryName": "bosniaAndHerzegovina",
     "finCountryName": "Bośnia i Hercegowina"
 },
 {
@@ -61,7 +61,7 @@
 },
 {
     "Id": "13",
-    "countryName": "burkina_faso",
+    "countryName": "burkinaFaso",
     "finCountryName": "Burkina Faso"
 },
 {
@@ -81,7 +81,7 @@
 },
 {
     "Id": "17",
-    "countryName": "brunei_darussalam",
+    "countryName": "bruneiDarussalam",
     "finCountryName": "Brunei Darussalam"
 },
 {
@@ -126,17 +126,17 @@
 },
 {
     "Id": "26",
-    "countryName": "democratic_republic_of_congo",
+    "countryName": "congoDR",
     "finCountryName": "Demokratyczna Republika Kongo"
 },
 {
     "Id": "27",
-    "countryName": "central_african_republic",
+    "countryName": "centralAfricanRepublic",
     "finCountryName": "Republika Środkowoafrykańska"
 },
 {
     "Id": "28",
-    "countryName": "republic_of_congo",
+    "countryName": "congo",
     "finCountryName": "Republika Kongo"
 },
 {
@@ -146,7 +146,7 @@
 },
 {
     "Id": "30",
-    "countryName": "côte_dIvoire",
+    "countryName": "ivoryCoast",
     "finCountryName": "Wybrzeże Kości Słoniowej"
 },
 {
@@ -171,7 +171,7 @@
 },
 {
     "Id": "35",
-    "countryName": "costa_rica",
+    "countryName": "costaRica",
     "finCountryName": "Kostaryka"
 },
 {
@@ -206,7 +206,7 @@
 },
 {
     "Id": "42",
-    "countryName": "dominican_republic",
+    "countryName": "dominicanRepublic",
     "finCountryName": "Dominikana"
 },
 {
@@ -231,7 +231,7 @@
 },
 {
     "Id": "47",
-    "countryName": "western_sahara",
+    "countryName": "westernSahara",
     "finCountryName": "Sahara Zachodnia"
 },
 {
@@ -251,7 +251,7 @@
 },
 {
     "Id": "51",
-    "countryName": "falkland_islands",
+    "countryName": "falklandIslands",
     "finCountryName": "Falklandy"
 },
 {
@@ -276,7 +276,7 @@
 },
 {
     "Id": "56",
-    "countryName": "united_kingdom",
+    "countryName": "ukCountries",
     "finCountryName": "Wielka Brytania"
 },
 {
@@ -286,7 +286,7 @@
 },
 {
     "Id": "58",
-    "countryName": "french_guiana",
+    "countryName": "frenchGuiana",
     "finCountryName": "Gujana Francuska"
 },
 {
@@ -311,7 +311,7 @@
 },
 {
     "Id": "63",
-    "countryName": "equatorial_guinea",
+    "countryName": "equatorialGuinea",
     "finCountryName": "Gwinea Równikowa"
 },
 {
@@ -326,7 +326,7 @@
 },
 {
     "Id": "66",
-    "countryName": "guinea_bissau",
+    "countryName": "guineaBissau",
     "finCountryName": "Gwinea Bissau"
 },
 {
@@ -426,12 +426,12 @@
 },
 {
     "Id": "86",
-    "countryName": "north_korea",
+    "countryName": "northKorea",
     "finCountryName": "Korea Północna"
 },
 {
     "Id": "87",
-    "countryName": "south_korea",
+    "countryName": "southKorea",
     "finCountryName": "Korea Południowa"
 },
 {
@@ -451,7 +451,7 @@
 },
 {
     "Id": "91",
-    "countryName": "lao_peoples_democratic_republic",
+    "countryName": "laos",
     "finCountryName": "Laos"
 },
 {
@@ -461,7 +461,7 @@
 },
 {
     "Id": "93",
-    "countryName": "sri_lanka",
+    "countryName": "sriLanka",
     "finCountryName": "Sri Lanka"
 },
 {
@@ -566,7 +566,7 @@
 },
 {
     "Id": "114",
-    "countryName": "new_caledonia",
+    "countryName": "newCaledonia",
     "finCountryName": "Nowa Kaledonia"
 },
 {
@@ -601,7 +601,7 @@
 },
 {
     "Id": "121",
-    "countryName": "new_zealand",
+    "countryName": "newZealand",
     "finCountryName": "Nowa Zelandia"
 },
 {
@@ -621,7 +621,7 @@
 },
 {
     "Id": "125",
-    "countryName": "papua_new_guinea",
+    "countryName": "papuaNewGuinea",
     "finCountryName": "Papua-Nowa Gwinea"
 },
 {
@@ -641,12 +641,12 @@
 },
 {
     "Id": "129",
-    "countryName": "puerto_rico",
+    "countryName": "puertoRico",
     "finCountryName": "Portoryko"
 },
 {
     "Id": "130",
-    "countryName": "palestinian_territories",
+    "countryName": "palestine",
     "finCountryName": "Palestyna"
 },
 {
@@ -686,12 +686,12 @@
 },
 {
     "Id": "138",
-    "countryName": "saudi_arabia",
+    "countryName": "saudiArabia",
     "finCountryName": "Arabia Saudyjska"
 },
 {
     "Id": "139",
-    "countryName": "solomon_islands",
+    "countryName": "solomonIslands",
     "finCountryName": "Wyspy Salomona"
 },
 {
@@ -711,7 +711,7 @@
 },
 {
     "Id": "143",
-    "countryName": "svalbard_and_jan_mayen",
+    "countryName": "svalbardJanMayen",
     "finCountryName": "Svalbard i Jan Mayer"
 },
 {
@@ -721,7 +721,7 @@
 },
 {
     "Id": "145",
-    "countryName": "sierra_leone",
+    "countryName": "sierraLeone",
     "finCountryName": "Sierra Leone"
 },
 {
@@ -741,7 +741,7 @@
 },
 {
     "Id": "149",
-    "countryName": "south_sudan",
+    "countryName": "southSudan",
     "finCountryName": "Południowy Sudan"
 },
 {
@@ -776,7 +776,7 @@
 },
 {
     "Id": "156",
-    "countryName": "timor_leste",
+    "countryName": "timorLeste",
     "finCountryName": "Timor Wschodni"
 },
 {
@@ -796,7 +796,7 @@
 },
 {
     "Id": "160",
-    "countryName": "trinidad_and_tobago",
+    "countryName": "trinidadAndTobago",
     "finCountryName": "Trinidad i Tobago"
 },
 {
@@ -816,7 +816,7 @@
 },
 {
     "Id": "164",
-    "countryName": "united_states",
+    "countryName": "usa",
     "finCountryName": "Stany Zjednoczone"
 },
 {
@@ -851,7 +851,7 @@
 },
 {
     "Id": "171",
-    "countryName": "south_africa",
+    "countryName": "southAfrica",
     "finCountryName": "Afryka Południowa"
 },
 {
