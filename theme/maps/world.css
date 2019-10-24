@@ -33,6 +33,15 @@ svg{
     z-index: 2;
     float: left;
 }
+#refresh img{
+    position: relative;
+    width: 35px; height: 35px;
+}
+#return img{
+    position: relative;
+    width: 35px; height: 35px;
+}
+
 .land{
     fill:white;
 }
