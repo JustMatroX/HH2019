@@ -51,11 +51,6 @@ svg{
 
 /* NATIONS */
 
-#svgImg{
-    opacity: 1;
-    float: left; width: 400px; height: 400px;
-    transition: ease 1s;
-}
 
 #return{
     position: absolute;
