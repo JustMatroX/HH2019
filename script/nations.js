@@ -6,7 +6,8 @@ function preload(){
 function setup(){
     setContent()
 }
-document.getElementById('ifrmkraj').setAttribute('src', name+".html");
+let globalName = getTitle();
+document.getElementById('ifrmkraj').setAttribute('src', globalName+".html");
 
 function setContent(){
 	let title = getTitle();
@@ -21,7 +22,6 @@ function setContent(){
 			newProblems = nameTable[i]['problems'];
             divideData(newProblems);
             chPage(0);
-			document.getElementById('svgVp').innerHTML = "<img id='svgImg' src='../svg/"+title+"Low.svg#svgView(viewBox(0,50,1250,1250))'/>"
             break;
         }
         i--;
@@ -37,6 +37,7 @@ function getTitle(){
 	document.getElementById('title').innerHTML = title[0].toUpperCase()+title.substr(1);
 	return title;
 }	
+
 let pages = [];
 function divideData(data){
      let charPos = []; let txtLength;

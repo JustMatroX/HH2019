@@ -90,14 +90,24 @@ svg{
     margin:1vh;
     float: left;
 }
+
 #data{
-    width: 35vw;
-    height: 70vh;
-    padding: 10vh 1vh 0vh;
-    margin-left: 2vw;
-    background-color: #fff;
-    font-family: Arial;
+    width: 100vw;
+    height: 20vh;
+    margin: 0;
 }
+
+@media only screen and (min-width: 600px) {
+    #data{
+        width: 35vw;
+        height: 70vh;
+        padding: 10vh 1vh 0vh;
+        margin-left: 2vw;
+        background-color: #fff;
+        font-family: Arial;
+    }
+}
+
 #dataHolder{
     width: 30vw; height: 50vh;
 }
