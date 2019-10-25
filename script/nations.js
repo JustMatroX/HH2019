@@ -6,6 +6,7 @@ function preload(){
 function setup(){
     setContent()
 }
+document.getElementById('ifrmkraj').setAttribute('src', name+".html");
 
 function setContent(){
 	let title = getTitle();
