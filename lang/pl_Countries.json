@@ -1,0 +1,1040 @@
+[
+{
+    "Id": "1",
+    "countryName": "unitedArabEmirates",
+    "finCountryName": "Zjednoczone Emiraty Arabskie",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "2",
+    "countryName": "afghanistan",
+    "finCountryName": "Afganistan",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "3",
+    "countryName": "albania",
+    "finCountryName": "Albania",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "4",
+    "countryName": "armenia",
+    "finCountryName": "Armenia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "5",
+    "countryName": "angola",
+    "finCountryName": "Angola",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "6",
+    "countryName": "argentina",
+    "finCountryName": "Argentyna",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "7",
+    "countryName": "austria",
+    "finCountryName": "Austria",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "8",
+    "countryName": "australia",
+    "finCountryName": "Australia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "9",
+    "countryName": "azerbaijan",
+    "finCountryName": "Azerbejdżan",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "10",
+    "countryName": "bosniaAndHerzegovina",
+    "finCountryName": "Bośnia i Hercegowina",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "11",
+    "countryName": "bangladesh",
+    "finCountryName": "Bangladesz",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "12",
+    "countryName": "belgium",
+    "finCountryName": "Belgia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "13",
+    "countryName": "burkinaFaso",
+    "finCountryName": "Burkina Faso",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "14",
+    "countryName": "bulgaria",
+    "finCountryName": "Bułgaria",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "15",
+    "countryName": "burundi",
+    "finCountryName": "Burundi",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "16",
+    "countryName": "benin",
+    "finCountryName": "Benin",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "17",
+    "countryName": "bruneiDarussalam",
+    "finCountryName": "Brunei Darussalam",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "18",
+    "countryName": "bolivia",
+    "finCountryName": "Boliwia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "19",
+    "countryName": "brazil",
+    "finCountryName": "Brazylia",
+    "problems": "<br><h2>Problemy ekonomiczne</h2>Inwestorzy odwracają się od Brazylii, która gospodarczo i politycznie zmierza w ślepą uliczkę. Efektem jest słabnąca lokalna waluta i wysoki koszt pożyczania pieniędzy. Ekonomiści nie kryją, że potrzebne są drastyczne reformy, bo inaczej kraj ten czeka kryzys.<br><br>&<h2>Pożary</h2> Od początku roku w Brazylii odnotowano 83 tysiące pożarów. To o 77 procent więcej w porównaniu z takim samym okresem w roku ubiegłym. Wiele pożarów wybuchło na obszarach wylesionych przez ludzi, wypalających grunt pod uprawy lub pastwiska. Jedną z największych katastrof klimatycznych w naszych dziejach były ogromne pożary amazońskich lasów.<br><br>&<h2>Wylesianie</h2>Brazylijski państwowy instytut badań INPE informował niedawno, że w czerwcu br. tempo wylesiania w Brazylii wzrosło o 88 proc. w porównaniu z tym samym okresem rok wcześniej, a ekspansja rolnicza w tym regionie nasiliła się, odkąd Bolsonaro w styczniu br. stanął u sterów władzy."
+},
+{
+    "Id": "20",
+    "countryName": "bahamas",
+    "finCountryName": "Bahamy",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "21",
+    "countryName": "bhutan",
+    "finCountryName": "Bhutan",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "22",
+    "countryName": "botswana",
+    "finCountryName": "Botswana",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "23",
+    "countryName": "belarus",
+    "finCountryName": "Białoruś",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "24",
+    "countryName": "belize",
+    "finCountryName": "Belize",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "25",
+    "countryName": "canada",
+    "finCountryName": "Kanada",
+    "problems":"<h2>Brak drugorzędnej obsługi medycznej:</h2>Wiąże się z to koniecznością dużych wydatków na usługi zdrowotne niezależnie od stanu majątkowego.<br><br>&<h2>Utrudniony dostęp do internetu i telefonii.<br/><br/>&<h2>Handel międzyprowincyjny jest utrudniony i sprawia wiele problemów.</h2><br/><br/>&<h2>Chcesz pomóc?</h2>Wejdź tutaj: <a href='https://www.canadahelps.org/en/' target='_blank'>CanadaHelps</a>"
+},
+{
+    "Id": "26",
+    "countryName": "congoDR",
+    "finCountryName": "Demokratyczna Republika Konga",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "27",
+    "countryName": "centralAfricanRepublic",
+    "finCountryName": "Republika Środkowoafrykańska",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "28",
+    "countryName": "congo",
+    "finCountryName": "Republika Konga",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "29",
+    "countryName": "switzerland",
+    "finCountryName": "Szwajcaria",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "30",
+    "countryName": "ivoryCoast",
+    "finCountryName": "Wybrzeże Kości Słoniowej",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "31",
+    "countryName": "chile",
+    "finCountryName": "Chile",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "32",
+    "countryName": "cameroon",
+    "finCountryName": "Kamerun",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "33",
+    "countryName": "china",
+    "finCountryName": "Chiny",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "34",
+    "countryName": "colombia",
+    "finCountryName": "Kolumbia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "35",
+    "countryName": "costaRica",
+    "finCountryName": "Kostaryka",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "36",
+    "countryName": "cuba",
+    "finCountryName": "Kuba",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "37",
+    "countryName": "cyprus",
+    "finCountryName": "Cypr",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "38",
+    "countryName": "czechia",
+    "finCountryName": "Czechy",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "39",
+    "countryName": "germany",
+    "finCountryName": "Niemcy",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "40",
+    "countryName": "djibouti",
+    "finCountryName": "Dżibuti",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "41",
+    "countryName": "denmark",
+    "finCountryName": "Dania",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "42",
+    "countryName": "dominicanRepublic",
+    "finCountryName": "Dominikana",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "43",
+    "countryName": "algeria",
+    "finCountryName": "Algieria",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "44",
+    "countryName": "ecuador",
+    "finCountryName": "Ekwador",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "45",
+    "countryName": "estonia",
+    "finCountryName": "Estonia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "46",
+    "countryName": "egypt",
+    "finCountryName": "Egipt",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "47",
+    "countryName": "westernSahara",
+    "finCountryName": "Sahara Zachodnia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "48",
+    "countryName": "eritrea",
+    "finCountryName": "Erytrea",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "49",
+    "countryName": "spain",
+    "finCountryName": "Hiszpania",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "50",
+    "countryName": "ethiopia",
+    "finCountryName": "Etiopia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "51",
+    "countryName": "falklandIslands",
+    "finCountryName": "Falklandy",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "52",
+    "countryName": "finland",
+    "finCountryName": "Finlandia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "53",
+    "countryName": "fiji",
+    "finCountryName": "Fidżi",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "54",
+    "countryName": "france",
+    "finCountryName": "Francja",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "55",
+    "countryName": "gabon",
+    "finCountryName": "Gabon",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "56",
+    "countryName": "ukCountries",
+    "finCountryName": "Wielka Brytania",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "57",
+    "countryName": "georgia",
+    "finCountryName": "Gruzja",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "58",
+    "countryName": "frenchGuiana",
+    "finCountryName": "Gujana Francuska",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "59",
+    "countryName": "ghana",
+    "finCountryName": "Ghana",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "60",
+    "countryName": "greenland",
+    "finCountryName": "Grenlandia",
+    "problems":"<h2>KATASTROFA KLIMATYCZNIA - Gwałtowne topnienie lodowców</h2>W okresie letnim - od czerwca do sierpnia - notuje się największy ubytek lodu na Grenlandii. Szczyt topnienia przypada na lipiec. Do niezwykle gwałtownego stopienia pokrywy lodowej doszło 13 czerwca. Naukowcy szacują, że w zaledwie jeden dzień ubyły ponad dwa miliardy ton lodu.<br><br>&<h2>Podnoszenie się poziomu oceanów</h2> Z najnowszych badań wynika, że od 1972 roku utrata lodu z samej Grenlandii spowodowała wzrost globalnego poziomu oceanów o 13,7 milimetra. Pokrywa lodowa wyspy jest wiodącym źródłem wody, która co roku trafia do oceanów. Czy zatem możemy spodziewać się globalnej powodzi?"
+},
+{
+    "Id": "61",
+    "countryName": "gambia",
+    "finCountryName": "Gambia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "62",
+    "countryName": "guinea",
+    "finCountryName": "Gwinea",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "63",
+    "countryName": "equatorialGuinea",
+    "finCountryName": "Gwinea Równikowa",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "64",
+    "countryName": "greece",
+    "finCountryName": "Grecja",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "65",
+    "countryName": "guatemala",
+    "finCountryName": "Gwatemala",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "66",
+    "countryName": "guineaBissau",
+    "finCountryName": "Gwinea Bissau",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "67",
+    "countryName": "guyana",
+    "finCountryName": "Gujana",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "68",
+    "countryName": "honduras",
+    "finCountryName": "Honduras",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "69",
+    "countryName": "croatia",
+    "finCountryName": "Chorwacja",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "70",
+    "countryName": "haiti",
+    "finCountryName": "Haiti",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "71",
+    "countryName": "hungary",
+    "finCountryName": "Węgry",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "72",
+    "countryName": "indonesia",
+    "finCountryName": "Indonezja",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "73",
+    "countryName": "ireland",
+    "finCountryName": "Irlandia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "74",
+    "countryName": "israel",
+    "finCountryName": "Izrael",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "75",
+    "countryName": "india",
+    "finCountryName": "Indie",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "76",
+    "countryName": "iraq",
+    "finCountryName": "Irak",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "77",
+    "countryName": "iran",
+    "finCountryName": "Iran",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "78",
+    "countryName": "iceland",
+    "finCountryName": "Islandia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "79",
+    "countryName": "italy",
+    "finCountryName": "Włochy",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "80",
+    "countryName": "jamaica",
+    "finCountryName": "Jamajka",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "81",
+    "countryName": "jordan",
+    "finCountryName": "Jordania",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "82",
+    "countryName": "japan",
+    "finCountryName": "Japonia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "83",
+    "countryName": "kenya",
+    "finCountryName": "Kenia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "84",
+    "countryName": "kyrgyzstan",
+    "finCountryName": "Kirgistan",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "85",
+    "countryName": "cambodia",
+    "finCountryName": "Kambodża",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "86",
+    "countryName": "northKorea",
+    "finCountryName": "Korea Północna",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "87",
+    "countryName": "southKorea",
+    "finCountryName": "Korea Południowa",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "88",
+    "countryName": "kosovo",
+    "finCountryName": "Kosowo",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "89",
+    "countryName": "kuwait",
+    "finCountryName": "kuwejt",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "90",
+    "countryName": "kazakhstan",
+    "finCountryName": "Kazachstan",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "91",
+    "countryName": "laos",
+    "finCountryName": "Laos",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "92",
+    "countryName": "lebanon",
+    "finCountryName": "Liban",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "93",
+    "countryName": "sriLanka",
+    "finCountryName": "Sri Lanka",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "94",
+    "countryName": "liberia",
+    "finCountryName": "Liberia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "95",
+    "countryName": "lesotho",
+    "finCountryName": "Lesotho",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "96",
+    "countryName": "lithuania",
+    "finCountryName": "Litwa",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "97",
+    "countryName": "luxembourg",
+    "finCountryName": "Luksemburg",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "98",
+    "countryName": "latvia",
+    "finCountryName": "Łotwa",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "99",
+    "countryName": "libya",
+    "finCountryName": "Libia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "100",
+    "countryName": "morocco",
+    "finCountryName": "Maroko",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "101",
+    "countryName": "moldova",
+    "finCountryName": "Mołdawia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "102",
+    "countryName": "montenegro",
+    "finCountryName": "Czarnogóra",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "103",
+    "countryName": "madagascar",
+    "finCountryName": "Madagaskar",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "104",
+    "countryName": "macedonia",
+    "finCountryName": "Macedonia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "105",
+    "countryName": "mali",
+    "finCountryName": "Mali",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "106",
+    "countryName": "myanmar",
+    "finCountryName": "Mjanma",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "107",
+    "countryName": "mongolia",
+    "finCountryName": "Mongolia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "108",
+    "countryName": "mauritania",
+    "finCountryName": "Mauretania",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "109",
+    "countryName": "malawi",
+    "finCountryName": "Malawi",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "110",
+    "countryName": "mexico",
+    "finCountryName": "Meksyk",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "111",
+    "countryName": "malaysia",
+    "finCountryName": "Malezja",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "112",
+    "countryName": "mozambique",
+    "finCountryName": "Mozambik",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "113",
+    "countryName": "namibia",
+    "finCountryName": "Namiba",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "114",
+    "countryName": "newCaledonia",
+    "finCountryName": "Nowa Kaledonia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "115",
+    "countryName": "niger",
+    "finCountryName": "Niger",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "116",
+    "countryName": "nigeria",
+    "finCountryName": "Nigeria",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "117",
+    "countryName": "nicaragua",
+    "finCountryName": "Nikaragua",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "118",
+    "countryName": "netherlands",
+    "finCountryName": "Holandia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "119",
+    "countryName": "norway",
+    "finCountryName": "Norwegia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "120",
+    "countryName": "nepal",
+    "finCountryName": "Nepal",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "121",
+    "countryName": "newZealand",
+    "finCountryName": "Nowa Zelandia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "122",
+    "countryName": "oman",
+    "finCountryName": "Oman",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "123",
+    "countryName": "panama",
+    "finCountryName": "Panama",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "124",
+    "countryName": "peru",
+    "finCountryName": "Peru",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "125",
+    "countryName": "papuaNewGuinea",
+    "finCountryName": "Papua-Nowa Gwinea",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "126",
+    "countryName": "philippines",
+    "finCountryName": "Filipiny",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "127",
+    "countryName": "poland",
+    "finCountryName": "Polska",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "128",
+    "countryName": "pakistan",
+    "finCountryName": "Pakistan",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "129",
+    "countryName": "puertoRico",
+    "finCountryName": "Portoryko",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "130",
+    "countryName": "palestine",
+    "finCountryName": "Palestyna",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "131",
+    "countryName": "portugal",
+    "finCountryName": "Portugalia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "132",
+    "countryName": "paraguay",
+    "finCountryName": "Paragwaj",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "133",
+    "countryName": "qatar",
+    "finCountryName": "Katar",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "134",
+    "countryName": "romania",
+    "finCountryName": "Rumunia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "135",
+    "countryName": "serbia",
+    "finCountryName": "Serbia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "136",
+    "countryName": "russia",
+    "finCountryName": "Rosja",
+    "problems":"<h2>Wycinka lasów</h2>Nadmierne pozyskiwanie drewna powoduje powszechne wylesianie niektórych obszarów Rosji. Pomimo wysiłków rosyjskich władz na rzecz ochrony lasów za pomocą rezerwatów przyrody i parków, brakuje funduszy dla leśniczych, ograniczając ochronę lasów. Nielegalne pozyskiwanie drewna jest również szeroko rozpowszechnione, szczególnie w północno-zachodniej i dalekowschodniej części Rosji. Według Centrum Rosyjskiej Polityki Środowiskowej 16 milionów hektarów lasów ginie co roku z różnych przyczyn, w tym zrębów, zanieczyszczeń i pożarów. Nieefektywne strategie pozyskiwania drewna i wycinania powodują, że 40% pozyskanych drzew nigdy nie jest wykorzystywanych, a wdrażanie polityki ochrony lasów jest powolne.<br/><br/>&<h2>System Polityczny</h2>Niezdrowy system polityczny oparty na pewnego rodzaju terrorze i strachu, oraz władza nie dążąca do światowego pokoju jest dużym problemem Rosji."
+},
+{
+    "Id": "137",
+    "countryName": "rwanda",
+    "finCountryName": "Rwanda",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "138",
+    "countryName": "saudiArabia",
+    "finCountryName": "Arabia Saudyjska",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "139",
+    "countryName": "solomonIslands",
+    "finCountryName": "Wyspy Salomona",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "140",
+    "countryName": "sudan",
+    "finCountryName": "Sudan",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "141",
+    "countryName": "sweden",
+    "finCountryName": "Szwecja",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "142",
+    "countryName": "slovenia",
+    "finCountryName": "Słowenia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "143",
+    "countryName": "svalbardJanMayen",
+    "finCountryName": "Svalbard i Jan Mayer",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "144",
+    "countryName": "slovakia",
+    "finCountryName": "Słowacja",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "145",
+    "countryName": "sierraLeone",
+    "finCountryName": "Sierra Leone",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "146",
+    "countryName": "senegal",
+    "finCountryName": "Senegal",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "147",
+    "countryName": "somalia",
+    "finCountryName": "Somalia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "148",
+    "countryName": "suriname",
+    "finCountryName": "Surinam",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "149",
+    "countryName": "southSudan",
+    "finCountryName": "Południowy Sudan",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "150",
+    "countryName": "syria",
+    "finCountryName": "Syria",
+    "problems":"<h2>Problemy klimatycznie oraz ich skutki</h2> Od 2006 roku Żyzny Półksiężyc, na terenach którego 12 tysięcy lat temu narodziło się rolnictwo, a szerzej nasza cywilizacja, stanął w obliczu najpoważniejszej trzyletniej suszy w historii pomiarów. Susza obnażyła niezrównoważone praktyki rolnicze i doprowadziła do załamania rolnictwa w północno-wschodniej Syrii. Wskutek tego 1,5 miliona osób utraciło środki utrzymania i przeniosło się ze wsi do miast. <br><br>&<h2>Szok demograficzny </h2>Przybycie do miast tak wielu rodzin wiejskich nałożyło się na falę miliona irackich uchodźców, którzy przybyli do Syrii po 2006 roku, powodując „olbrzymi szok demograficzny” w najbardziej dotkniętych centrach miejskich. Wielu z uciekinierów osiedliło się na obrzeżach miast, gdzie i tak trudne warunki życiowe były pogarszane przez słaby dostęp do wody i elektryczności."
+},
+{
+    "Id": "151",
+    "countryName": "swaziland",
+    "finCountryName": "Szwajcaria",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "152",
+    "countryName": "chad",
+    "finCountryName": "Czad",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "153",
+    "countryName": "togo",
+    "finCountryName": "Togo",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "154",
+    "countryName": "thailand",
+    "finCountryName": "Tajlandia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "155",
+    "countryName": "tajikistan",
+    "finCountryName": "Tadżykistan",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "156",
+    "countryName": "timorLeste",
+    "finCountryName": "Timor Wschodni",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "157",
+    "countryName": "turkmenistan",
+    "finCountryName": "Turkmenistan",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "158",
+    "countryName": "tunisia",
+    "finCountryName": "Tunezja",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "159",
+    "countryName": "turkey",
+    "finCountryName": "Turcja",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "160",
+    "countryName": "trinidadAndTobago",
+    "finCountryName": "Trinidad i Tobago",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "161",
+    "countryName": "taiwan",
+    "finCountryName": "Tajwan",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "162",
+    "countryName": "tanzania",
+    "finCountryName": "Tanzania",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "163",
+    "countryName": "ukraine",
+    "finCountryName": "Ukraina",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "164",
+    "countryName": "usa",
+    "finCountryName": "Stany Zjednoczone",
+    "problems":"<h2>Imigracja</h2>Masowa imigracja do Stanów Zjednoczonych jest coraz większym problemem w oczach rządu i obywateli USA. Koszty z tym związane i wyraźny negatywny wpływ na społeczeństwo powoduje nie przyjmowanie nawet najbardziej potrzebujących z objętych restrykcją regionów<br/><br/>&<h2>Wczesna edukacja</h2>Niski poziom edukacji przed Studiami(48 milionów ma problemy z czytaniem i pisaniem) który sam tworzy problemy studentom którzy bez pożyczek sobie nie poradzą.<br/><br/>&<h2>Służba zdrowia</h2>Służba zdrowia jest droga i słabo dostępna. Biedniejsze osoby często nie mają za co się leczyć, lub nie leczą sie wcale.<br/><br/>&<h3>Chcesz pomoć? Odwiedź: <a href='https://www.unicefusa.org/help/donate' target='_blank'>Unicef USA</a></h3>"
+},
+{
+    "Id": "165",
+    "countryName": "uruguay",
+    "finCountryName": "Urugwaj",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "166",
+    "countryName": "uzbekistan",
+    "finCountryName": "Uzbekistan",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "167",
+    "countryName": "venezuela",
+    "finCountryName": "Wenezuela",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "168",
+    "countryName": "vietnam",
+    "finCountryName": "Wietnam",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "169",
+    "countryName": "vanuatu",
+    "finCountryName": "Vanuatu",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "170",
+    "countryName": "yamen",
+    "finCountryName": "Jamen",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "171",
+    "countryName": "southAfrica",
+    "finCountryName": "Afryka Południowa",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "172",
+    "countryName": "zambia",
+    "finCountryName": "Zambia",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+},
+{
+    "Id": "173",
+    "countryName": "zimbabwe",
+    "finCountryName": "Zimbabwe",
+    "problems":"<h3>Problemy:</h3>Pracujemy nad tym :)"
+}
+]

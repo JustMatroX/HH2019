@@ -1,0 +1,647 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 0;
+}
+svg{
+    transition: ease 0.1s;
+}
+
+#mapa{
+    width: 1010px; height: 650px;
+    position: absolute;
+    z-index: 1;
+    top: 50%; left: 50%;
+    transform-origin: center;
+    transform: translate( -50%, -50%);
+    transition: ease 0.1s;
+}
+
+#dirButtons{
+    margin-top: 6vh; margin-left: 2vh;
+    float:left;
+}
+.buttons{
+    background-color: #eee; width: 35px; height: 35px; 
+    margin-bottom: 5px;
+    position: relative; user-select: none; 
+    z-index: 2;
+    float: left;
+}
+#refresh{
+    background-color: #eee; width: 50px; height: 50px;
+    position: relative; user-select: none; 
+    margin-top: 8vh; margin-left: 2vh;
+    z-index: 2;
+    float: left;
+}
+#refresh img{
+    position: relative;
+    width: 35px; height: 35px;
+}
+#return img{
+    position: relative;
+    width: 35px; height: 35px;
+}
+
+.land{
+    fill:white;
+}
+
+/* NATIONS */
+
+
+#return{
+    position: absolute;
+    user-select: none;
+    z-index: 2;
+    margin: 50px;
+    width: 5vw; height: 5vw;
+    background-color: #eee;
+}
+
+#container{
+    width: 100%; height: 100%;
+    border: 1px solid white;
+    opacity: 1;
+    transition: ease 1s;
+}
+#container2{
+    margin-top: 10vh;
+    width: 50%;
+    float: left;
+    font-size:2.5vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#title{
+    width: auto; height: 4vh;
+    background-color: #eee; 
+    text-align: center; font-family: Arial, Helvetica, sans-serif;
+    font-size: 3vh; font-weight: bolder; padding: 1vh;
+    background-color: rgb(109, 209, 78); color: #333;
+    box-shadow: 1px 1px 0px 4px rgb(32, 151, 255);
+    margin:1vh;
+    float: left;
+}
+
+#data{
+    width: 100vw;
+    height: 20vh;
+    margin: 0;
+}
+
+@media only screen and (min-width: 600px) {
+    #data{
+        width: 35vw;
+        height: 70vh;
+        padding: 10vh 1vh 0vh;
+        margin-left: 2vw;
+        background-color: #fff;
+        font-family: Arial;
+    }
+}
+
+#dataHolder{
+    width: 30vw; height: 50vh;
+}
+#pages button{
+    width: 50px; height: 50px;
+}
+
+a{
+text-decoration:none;
+}
+h3{
+    text-align:center;
+}
+
+/* HOVERY */
+
+#AE:hover{
+    fill: rgb(109, 209, 78);
+}
+#AF:hover{
+    fill: rgb(109, 209, 78);
+}
+#AL:hover{
+    fill: rgb(109, 209, 78);
+}
+#AM:hover{
+    fill: rgb(109, 209, 78);
+}
+#AO:hover{
+    fill: rgb(109, 209, 78);
+}
+#AR:hover{
+    fill: rgb(109, 209, 78);
+}
+#AT:hover{
+    fill: rgb(109, 209, 78);
+}
+#AU:hover{
+    fill: rgb(109, 209, 78);
+}
+#AZ:hover{
+    fill: rgb(109, 209, 78);
+}
+#BA:hover{
+    fill: rgb(109, 209, 78);
+}
+#BD:hover{
+    fill: rgb(109, 209, 78);
+}
+#BE:hover{
+    fill: rgb(109, 209, 78);
+}
+#BF:hover{
+    fill: rgb(109, 209, 78);
+}
+#BG:hover{
+    fill: rgb(109, 209, 78);
+}
+#BI:hover{
+    fill: rgb(109, 209, 78);
+}
+#BJ:hover{
+    fill: rgb(109, 209, 78);
+}
+#BN:hover{
+    fill: rgb(109, 209, 78);
+}
+#BO:hover{
+    fill: rgb(109, 209, 78);
+}
+#BR:hover{
+    fill: rgb(109, 209, 78);
+}
+#BS:hover{
+    fill: rgb(109, 209, 78);
+}
+#BT:hover{
+    fill: rgb(109, 209, 78);
+}
+#BW:hover{
+    fill: rgb(109, 209, 78);
+}
+#BY:hover{
+    fill: rgb(109, 209, 78);
+}
+#BZ:hover{
+    fill: rgb(109, 209, 78);
+}
+#CA:hover{
+    fill: rgb(109, 209, 78);
+}
+#CD:hover{
+    fill: rgb(109, 209, 78);
+}
+#CF:hover{
+    fill: rgb(109, 209, 78);
+}
+#CG:hover{
+    fill: rgb(109, 209, 78);
+}
+#CH:hover{
+    fill: rgb(109, 209, 78);
+}
+#CI:hover{
+    fill: rgb(109, 209, 78);
+}
+#CL:hover{
+    fill: rgb(109, 209, 78);
+}
+#CM:hover{
+    fill: rgb(109, 209, 78);
+}
+#CN:hover{
+    fill: rgb(109, 209, 78);
+}
+#CO:hover{
+    fill: rgb(109, 209, 78);
+}
+#CR:hover{
+    fill: rgb(109, 209, 78);
+}
+#CU:hover{
+    fill: rgb(109, 209, 78);
+}
+#CY:hover{
+    fill: rgb(109, 209, 78);
+}
+#CZ:hover{
+    fill: rgb(109, 209, 78);
+}
+#DE:hover{
+    fill: rgb(109, 209, 78);
+}
+#DJ:hover{
+    fill: rgb(109, 209, 78);
+}
+#DK:hover{
+    fill: rgb(109, 209, 78);
+}
+#DO:hover{
+    fill: rgb(109, 209, 78);
+}
+#DZ:hover{
+    fill: rgb(109, 209, 78);
+}
+#EC:hover{
+    fill: rgb(109, 209, 78);
+}
+#EE:hover{
+    fill: rgb(109, 209, 78);
+}
+#EG:hover{
+    fill: rgb(109, 209, 78);
+}
+#EH:hover{
+    fill: rgb(109, 209, 78);
+}
+#ER:hover{
+    fill: rgb(109, 209, 78);
+}
+#ES:hover{
+    fill: rgb(109, 209, 78);
+}
+#ET:hover{
+    fill: rgb(109, 209, 78);
+}
+#FK:hover{
+    fill: rgb(109, 209, 78);
+}
+#FI:hover{
+    fill: rgb(109, 209, 78);
+}
+#FJ:hover{
+    fill: rgb(109, 209, 78);
+}
+#FR:hover{
+    fill: rgb(109, 209, 78);
+}
+#GA:hover{
+    fill: rgb(109, 209, 78);
+}
+#GB:hover{
+    fill: rgb(109, 209, 78);
+}
+#GE:hover{
+    fill: rgb(109, 209, 78);
+}
+#GF:hover{
+    fill: rgb(109, 209, 78);
+}
+#GH:hover{
+    fill: rgb(109, 209, 78);
+}
+#GL:hover{
+    fill: rgb(109, 209, 78);
+}
+#GM:hover{
+    fill: rgb(109, 209, 78);
+}
+#GN:hover{
+    fill: rgb(109, 209, 78);
+}
+#GQ:hover{
+    fill: rgb(109, 209, 78);
+}
+#GR:hover{
+    fill: rgb(109, 209, 78);
+}
+#GT:hover{
+    fill: rgb(109, 209, 78);
+}
+#GW:hover{
+    fill: rgb(109, 209, 78);
+}
+#GY:hover{
+    fill: rgb(109, 209, 78);
+}
+#HN:hover{
+    fill: rgb(109, 209, 78);
+}
+#HR:hover{
+    fill: rgb(109, 209, 78);
+}
+#HT:hover{
+    fill: rgb(109, 209, 78);
+}
+#HU:hover{
+    fill: rgb(109, 209, 78);
+}
+#ID:hover{
+    fill: rgb(109, 209, 78);
+}
+#IE:hover{
+    fill: rgb(109, 209, 78);
+}
+#IL:hover{
+    fill: rgb(109, 209, 78);
+}
+#IN:hover{
+    fill: rgb(109, 209, 78);
+}
+#IQ:hover{
+    fill: rgb(109, 209, 78);
+}
+#IR:hover{
+    fill: rgb(109, 209, 78);
+}
+#IS:hover{
+    fill: rgb(109, 209, 78);
+}
+#IT:hover{
+    fill: rgb(109, 209, 78);
+}
+#JM:hover{
+    fill: rgb(109, 209, 78);
+}
+#JO:hover{
+    fill: rgb(109, 209, 78);
+}
+#JP:hover{
+    fill: rgb(109, 209, 78);
+}
+#KE:hover{
+    fill: rgb(109, 209, 78);
+}
+#KG:hover{
+    fill: rgb(109, 209, 78);
+}
+#KH:hover{
+    fill: rgb(109, 209, 78);
+}
+#KP:hover{
+    fill: rgb(109, 209, 78);
+}
+#KR:hover{
+    fill: rgb(109, 209, 78);
+}
+#XK:hover{
+    fill: rgb(109, 209, 78);
+}
+#KW:hover{
+    fill: rgb(109, 209, 78);
+}
+#KZ:hover{
+    fill: rgb(109, 209, 78);
+}
+#LA:hover{
+    fill: rgb(109, 209, 78);
+}
+#LB:hover{
+    fill: rgb(109, 209, 78);
+}
+#LK:hover{
+    fill: rgb(109, 209, 78);
+}
+#LR:hover{
+    fill: rgb(109, 209, 78);
+}
+#LS:hover{
+    fill: rgb(109, 209, 78);
+}
+#LT:hover{
+    fill: rgb(109, 209, 78);
+}
+#LU:hover{
+    fill: rgb(109, 209, 78);
+}
+#LV:hover{
+    fill: rgb(109, 209, 78);
+}
+#LY:hover{
+    fill: rgb(109, 209, 78);
+}
+#MA:hover{
+    fill: rgb(109, 209, 78);
+}
+#MD:hover{
+    fill: rgb(109, 209, 78);
+}
+#ME:hover{
+    fill: rgb(109, 209, 78);
+}
+#MG:hover{
+    fill: rgb(109, 209, 78);
+}
+#MK:hover{
+    fill: rgb(109, 209, 78);
+}
+#ML:hover{
+    fill: rgb(109, 209, 78);
+}
+#MM:hover{
+    fill: rgb(109, 209, 78);
+}
+#MN:hover{
+    fill: rgb(109, 209, 78);
+}
+#MR:hover{
+    fill: rgb(109, 209, 78);
+}
+#MW:hover{
+    fill: rgb(109, 209, 78);
+}
+#MX:hover{
+    fill: rgb(109, 209, 78);
+}
+#MY:hover{
+    fill: rgb(109, 209, 78);
+}
+#MZ:hover{
+    fill: rgb(109, 209, 78);
+}
+#NA:hover{
+    fill: rgb(109, 209, 78);
+}
+#NC:hover{
+    fill: rgb(109, 209, 78);
+}
+#NE:hover{
+    fill: rgb(109, 209, 78);
+}
+#NG:hover{
+    fill: rgb(109, 209, 78);
+}
+#NI:hover{
+    fill: rgb(109, 209, 78);
+}
+#NL:hover{
+    fill: rgb(109, 209, 78);
+}
+#NO:hover{
+    fill: rgb(109, 209, 78);
+}
+#NP:hover{
+    fill: rgb(109, 209, 78);
+}
+#NZ:hover{
+    fill: rgb(109, 209, 78);
+}
+#OM:hover{
+    fill: rgb(109, 209, 78);
+}
+#PA:hover{
+    fill: rgb(109, 209, 78);
+}
+#PE:hover{
+    fill: rgb(109, 209, 78);
+}
+#PG:hover{
+    fill: rgb(109, 209, 78);
+}
+#PH:hover{
+    fill: rgb(109, 209, 78);
+}
+#PL:hover{
+    fill: rgb(109, 209, 78);
+}
+#PK:hover{
+    fill: rgb(109, 209, 78);
+}
+#PR:hover{
+    fill: rgb(109, 209, 78);
+}
+#PS:hover{
+    fill: rgb(109, 209, 78);
+}
+#PT:hover{
+    fill: rgb(109, 209, 78);
+}
+#PY:hover{
+    fill: rgb(109, 209, 78);
+}
+#QA:hover{
+    fill: rgb(109, 209, 78);
+}
+#RO:hover{
+    fill: rgb(109, 209, 78);
+}
+#RS:hover{
+    fill: rgb(109, 209, 78);
+}
+#RU:hover{
+    fill: rgb(109, 209, 78);
+}
+#RW:hover{
+    fill: rgb(109, 209, 78);
+}
+#SA:hover{
+    fill: rgb(109, 209, 78);
+}
+#SB:hover{
+    fill: rgb(109, 209, 78);
+}
+#SD:hover{
+    fill: rgb(109, 209, 78);
+}
+#SE:hover{
+    fill: rgb(109, 209, 78);
+}
+#SI:hover{
+    fill: rgb(109, 209, 78);
+}
+#SJ:hover{
+    fill: rgb(109, 209, 78);
+}
+#SK:hover{
+    fill: rgb(109, 209, 78);
+}
+#SL:hover{
+    fill: rgb(109, 209, 78);
+}
+#SN:hover{
+    fill: rgb(109, 209, 78);
+}
+#SO:hover{
+    fill: rgb(109, 209, 78);
+}
+#SR:hover{
+    fill: rgb(109, 209, 78);
+}
+#SS:hover{
+    fill: rgb(109, 209, 78);
+}
+#SV:hover{
+    fill: rgb(109, 209, 78);
+}
+#SY:hover{
+    fill: rgb(109, 209, 78);
+}
+#SZ:hover{
+    fill: rgb(109, 209, 78);
+}
+#TD:hover{
+    fill: rgb(109, 209, 78);
+}
+#TG:hover{
+    fill: rgb(109, 209, 78);
+}
+#TH:hover{
+    fill: rgb(109, 209, 78);
+}
+#TJ:hover{
+    fill: rgb(109, 209, 78);
+}
+#TL:hover{
+    fill: rgb(109, 209, 78);
+}
+#TM:hover{
+    fill: rgb(109, 209, 78);
+}
+#TN:hover{
+    fill: rgb(109, 209, 78);
+}
+#TR:hover{
+    fill: rgb(109, 209, 78);
+}
+#TT:hover{
+    fill: rgb(109, 209, 78);
+}
+#TW:hover{
+    fill: rgb(109, 209, 78);
+}
+#TZ:hover{
+    fill: rgb(109, 209, 78);
+}
+#UA:hover{
+    fill: rgb(109, 209, 78);
+}
+#UG:hover{
+    fill: rgb(109, 209, 78);
+}
+#US:hover{
+    fill: rgb(109, 209, 78);
+}
+#UY:hover{
+    fill: rgb(109, 209, 78);
+}
+#UZ:hover{
+    fill: rgb(109, 209, 78);
+}
+#VE:hover{
+    fill: rgb(109, 209, 78);
+}
+#VN:hover{
+    fill: rgb(109, 209, 78);
+}
+#VU:hover{
+    fill: rgb(109, 209, 78);
+}
+#YE:hover{
+    fill: rgb(109, 209, 78);
+}
+#ZA:hover{
+    fill: rgb(109, 209, 78);
+}
+#ZM:hover{
+    fill: rgb(109, 209, 78);
+}
+#ZW:hover{
+    fill: rgb(109, 209, 78);
+}
+
