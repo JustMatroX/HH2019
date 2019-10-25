@@ -4,6 +4,8 @@
     var bbox = svg.getBBox();
     var bboxx = bbox.x + bbox.width + bbox.x 
     var bboxy = bbox.y + bbox.height + bbox.y 
+    console.log(bboxy)
+    console.log(bboxx)
     svg.setAttribute("viewBox", "0 0 "+bboxx+" "+bboxy+"");
 
 function getTitle(){
