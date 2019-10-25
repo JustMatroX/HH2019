@@ -2,9 +2,9 @@
     let name = getTitle();
     var svg = document.getElementById(String(name));
     var bbox = svg.getBBox();
-    var bboxx = bbox.x + bbox.width + bbox.x +150
-    var bboxy = bbox.y + bbox.width + bbox.x +150
-    svg.setAttribute("viewBox", "-50 -50 "+bboxx+" "+bboxy+"");
+    var bboxx = bbox.x + bbox.width + bbox.x 
+    var bboxy = bbox.y + bbox.height + bbox.y 
+    svg.setAttribute("viewBox", "0 0 "+bboxx+" "+bboxy+"");
 
 function getTitle(){
 	let url = String(window.location.href);
