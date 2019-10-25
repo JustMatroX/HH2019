@@ -1,4 +1,6 @@
 html,body{
+    background: url('../images/bg5.jpg');
+    background-size: 100vw 100vh;
     background-attachment: fixed;
     background-color: rgb(212, 212, 212);
     font-family: Arial, Helvetica, sans-serif;
@@ -55,19 +57,20 @@ a{
 }
             /* For mobile phones: */
             iframe{
-                margin-top: 10vh;
+                margin-top: 6vh;
             }
             [class*="k"] {
                 width: 100%;
             }
-            [class*=cont]{
+            [class*='cont']{
                 display: table; margin: 0 auto;
-                padding: 20vw 0;
+                padding-top: 12vh;
                 height: 100vh;
                 background-color: rgb(238, 238, 238);
                 opacity: 0.9;
             }
             .cont1{
+                padding-top: 0;
                 opacity: 1;
             }
             
@@ -79,7 +82,7 @@ a{
             }
             
             [class*=cont] p{
-                padding: 0 20vw;
+                padding: 0 10vw;
             }
             @media only screen and (max-width: 600px) {
                 [class*="upper"] a{
@@ -123,6 +126,9 @@ a{
                         .kk10 {width: 83.33%;}
                         .kk11 {width: 91.66%;}
                         .kk12 {width: 100%;}
+                        [class *= 'cont']{
+                            padding: 10vh 0;
+                        }
                         .cont1{
                             padding-top: 2vh;
                         }
@@ -147,6 +153,12 @@ a{
                             .k10 {width: 83.33%;}
                             .k11 {width: 91.66%;}
                             .k12 {width: 100%;}
+                            [class *= 'cont']{
+                                padding: 20vh 0;
+                            }
+                            [class*=cont] p{
+                                padding: 0 10vw;
+                            }
                             .cont1{
                                 padding-top: 8vh;
                             }
